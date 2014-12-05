@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="6" MadCap:lastHeight="2093" MadCap:lastWidth="1162">
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="8" MadCap:lastHeight="2943" MadCap:lastWidth="1131">
     <head>
         <link href="Resources/Stylesheets/Styles.css" rel="stylesheet" type="text/css" />
     </head>
     <body>
-        <h1>Testing Observations</h1>
+        <h1>Testing/Observations</h1>
         <ul>
             <li>Flare inserts this as Comment if none are written:<ul><li>* Adding files C:\Users\Harkins\Documents\Git\version-control\Git_All\Content\GITLab_Matrix.htm,C:\Users\Harkins\Documents\Git\version-control\Git_All\Content\Resources\Snippets\TestPlans\Authentication.flsnp,C:\Users\Harkins\Documents\Git\version-control\Git_All\Content\Resources\Snippets\TestPlans\SourceControl.flsnp,C:\Users\Harkins\Documents\Git\version-control\Git_All\Content\Resources\TableStyles\Columns.css,C:\Users\Harkins\Documents\Git\version-control\Git_All\Project\Imports\NewImport.flimpfl.</li></ul></li>
             <li>If you use another GUI or Git Bash to Stage file, then Flare sees it as Commited -  Flare does not recognize file as staged but instead as Commited<ul><li>We should implement staging mechanism</li></ul></li>
@@ -16,7 +16,33 @@
             <li>Why does it Checkout everytime I add a new file: <img src="Resources/Images/image5.png" /></li>
             <li>Is this good after adding and then renaming before commiting?<img src="Resources/Images/image6.png" /></li>
             <li>Pushing duplicates but actually pushed once:<ul><li><img src="Resources/Images/image7.png" /></li></ul></li>
-            <li>&#160;</li>
+            <li>Check in GitBash if you can push all branches at once? Flare only does one currently</li>
+            <li>Just made a local "Flare" backup, what will happen in future if I restore it?</li>
+            <li>Need to Merge Testing into Master eventually</li>
+            <li>Need to focus on conflicts</li>
+            <li>git fetch</li>
+            <li>git merge</li>
+            <li>fast forward merges</li>
+            <li>git log</li>
+            <li>git diff<ul><li><p>git diff repoID1 repoID2 # in repo</p></li><li><p>git diff # working vs staged</p></li><li><p>git diff --staged # staged vs repo</p></li><li><p>git reset --hard # DISCARDS CHANGES in working copy and staging BE CAREFUL</p></li></ul></li>
+            <li>git add to Stage Bug it finally</li>
+            <li>
+                <p>git checkout -b [new_branch_name]</p>
+                <ul>
+                    <li>
+                        <p>which is the same as running both:</p>
+                        <ul>
+                            <li>
+                                <p>git branch [new_branch_name]</p>
+                            </li>
+                            <li>
+                                <p>git checkout [new_branch_name]</p>
+                            </li>
+                        </ul>
+                    </li>
+                </ul>
+            </li>
+            <li>Delete branches<ul><li><p>-git branch -d coins</p></li></ul></li>
         </ul>
     </body>
 </html>
