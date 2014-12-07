@@ -15,6 +15,10 @@ h2
 {
 	font-weight: bold;
 	font-size: 18.0pt;
+	font-variant: normal;
+	vertical-align: baseline;
+	text-decoration: none;
+	font-family: cursive;
 }
 
 h3
