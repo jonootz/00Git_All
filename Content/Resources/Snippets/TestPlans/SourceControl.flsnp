@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="6" MadCap:lastHeight="3522" MadCap:lastWidth="1081">
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="6" MadCap:lastHeight="3769" MadCap:lastWidth="1081">
     <head>
         <link href="../../TableStyles/Columns.css" rel="stylesheet" MadCap:stylesheetType="table" href-original="../../TableStyles/Columns.css" />
     </head>
@@ -127,12 +127,12 @@
                 </tr>
                 <tr style="height: 15pt;" class="TableStyle-Columns-Body-Body1">
                     <td class="TableStyle-Columns-BodyE-Column2-Body1">Pull a Project from  Remote Repository</td>
-                    <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyD-Column2-Body1">&#160;</td>
+                    <td class="TableStyle-Columns-BodyE-Column1-Body1">c </td>
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1">c</td>
+                    <td class="TableStyle-Columns-BodyE-Column1-Body1">n/a</td>
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1">c</td>
+                    <td class="TableStyle-Columns-BodyE-Column1-Body1">c</td>
+                    <td class="TableStyle-Columns-BodyD-Column2-Body1">c</td>
                 </tr>
                 <tr style="height: 15pt;" class="TableStyle-Columns-Body-Body1">
                     <td class="TableStyle-Columns-BodyE-Column2-Body1">Synchronize with  Remote Repository</td>
@@ -1062,6 +1062,96 @@
                 </tr>
                 <tr style="height: 15pt;" class="TableStyle-Columns-Body-Body1">
                     <td class="TableStyle-Columns-BodyE-Column2-Body1">Pull then Modify then Commit then Push (should not get diff)</td>
+                    <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
+                    <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
+                    <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
+                    <td class="TableStyle-Columns-BodyD-Column2-Body1">&#160;</td>
+                </tr>
+                <tr style="height: 15pt;" class="TableStyle-Columns-Body-Body1">
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1">Noticed Flare does not prompt for login (AddHTMfile.htm 1045am 00Flare_Compare</td>
+                    <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
+                    <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
+                    <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
+                    <td class="TableStyle-Columns-BodyD-Column2-Body1">&#160;</td>
+                </tr>
+                <tr style="height: 15pt;" class="TableStyle-Columns-Body-Body1">
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1">Merge changes from one branch to another</td>
+                    <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
+                    <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
+                    <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
+                    <td class="TableStyle-Columns-BodyD-Column2-Body1">&#160;</td>
+                </tr>
+                <tr style="height: 15pt;" class="TableStyle-Columns-Body-Body1">
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
+                    <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
+                    <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
+                    <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
+                    <td class="TableStyle-Columns-BodyD-Column2-Body1">&#160;</td>
+                </tr>
+                <tr style="height: 15pt;" class="TableStyle-Columns-Body-Body1">
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
+                    <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
+                    <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
+                    <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
+                    <td class="TableStyle-Columns-BodyD-Column2-Body1">&#160;</td>
+                </tr>
+                <tr style="height: 15pt;" class="TableStyle-Columns-Body-Body1">
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
+                    <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
+                    <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
+                    <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
+                    <td class="TableStyle-Columns-BodyD-Column2-Body1">&#160;</td>
+                </tr>
+                <tr style="height: 15pt;" class="TableStyle-Columns-Body-Body1">
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
+                    <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
+                    <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
+                    <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
+                    <td class="TableStyle-Columns-BodyD-Column2-Body1">&#160;</td>
+                </tr>
+                <tr style="height: 15pt;" class="TableStyle-Columns-Body-Body1">
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
+                    <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
+                    <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
+                    <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
+                    <td class="TableStyle-Columns-BodyD-Column2-Body1">&#160;</td>
+                </tr>
+                <tr style="height: 15pt;" class="TableStyle-Columns-Body-Body1">
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
+                    <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
+                    <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
+                    <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
+                    <td class="TableStyle-Columns-BodyD-Column2-Body1">&#160;</td>
+                </tr>
+                <tr style="height: 15pt;" class="TableStyle-Columns-Body-Body1">
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
+                    <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
+                    <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
+                    <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
+                    <td class="TableStyle-Columns-BodyD-Column2-Body1">&#160;</td>
+                </tr>
+                <tr style="height: 15pt;" class="TableStyle-Columns-Body-Body1">
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
                     <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
                     <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
                     <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
