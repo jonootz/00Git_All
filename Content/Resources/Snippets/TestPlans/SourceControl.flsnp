@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="6" MadCap:lastHeight="3133" MadCap:lastWidth="1168">
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="6" MadCap:lastHeight="3160" MadCap:lastWidth="1592">
     <head>
         <link href="../../TableStyles/Columns.css" rel="stylesheet" MadCap:stylesheetType="table" href-original="../../TableStyles/Columns.css" />
     </head>
@@ -56,12 +56,21 @@
                     <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
                     <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
                     <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyD-Column2-Body1">&#160;</td>
+                    <td class="TableStyle-Columns-BodyD-Column2-Body1">y</td>
                 </tr>
                 <tr style="height: 15pt;" class="TableStyle-Columns-Body-Body1">
                     <td class="TableStyle-Columns-BodyE-Column2-Body1">
                         <p class="p_3">Bind existing Project to VC</p>
                     </td>
+                    <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
+                    <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
+                    <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
+                    <td class="TableStyle-Columns-BodyD-Column2-Body1">y</td>
+                </tr>
+                <tr style="height: 15pt;" class="TableStyle-Columns-Body-Body1">
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1">Bind existing Project to VC via SC&#160;Explorer</td>
                     <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
                     <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
                     <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
@@ -81,6 +90,15 @@
                     <td class="TableStyle-Columns-BodyD-Column2-Body1">&#160;</td>
                 </tr>
                 <tr style="height: 15pt;" class="TableStyle-Columns-Body-Body1">
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1">Unbind a Project from VC  via SC&#160;Explorer</td>
+                    <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
+                    <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
+                    <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
+                    <td class="TableStyle-Columns-BodyD-Column2-Body1">&#160;</td>
+                </tr>
+                <tr style="height: 15pt;" class="TableStyle-Columns-Body-Body1">
                     <td class="TableStyle-Columns-BodyE-Column2-Body1">After Unbinding Project from VC - make some changes to files/folders in local project and make sure the copy in the repository is not affected</td>
                     <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
                     <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
@@ -90,9 +108,54 @@
                     <td class="TableStyle-Columns-BodyD-Column2-Body1">&#160;</td>
                 </tr>
                 <tr style="height: 15pt;" class="TableStyle-Columns-Body-Body1">
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1">After Unbinding Project from VC via SC&#160;Explorer - make some changes to files/folders in local project and make sure the copy in the repository is not affected</td>
+                    <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
+                    <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
+                    <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
+                    <td class="TableStyle-Columns-BodyD-Column2-Body1">&#160;</td>
+                </tr>
+                <tr style="height: 15pt;" class="TableStyle-Columns-Body-Body1">
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1">Push a Project to  Remote Repository</td>
+                    <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
+                    <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
+                    <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
+                    <td class="TableStyle-Columns-BodyD-Column2-Body1">&#160;</td>
+                </tr>
+                <tr style="height: 15pt;" class="TableStyle-Columns-Body-Body1">
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1">Pull a Project from  Remote Repository</td>
+                    <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
+                    <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
+                    <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
+                    <td class="TableStyle-Columns-BodyD-Column2-Body1">&#160;</td>
+                </tr>
+                <tr style="height: 15pt;" class="TableStyle-Columns-Body-Body1">
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1">Synchronize with  Remote Repository</td>
+                    <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
+                    <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
+                    <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
+                    <td class="TableStyle-Columns-BodyD-Column2-Body1">&#160;</td>
+                </tr>
+                <tr style="height: 15pt;" class="TableStyle-Columns-Body-Body1">
                     <td class="TableStyle-Columns-BodyE-Column2-Body1">
-                        <p class="p_3">Import a Project from VC</p>
+                        <p class="p_3">Import a Project from Remote Repository</p>
                     </td>
+                    <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
+                    <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
+                    <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
+                    <td class="TableStyle-Columns-BodyD-Column2-Body1">&#160;</td>
+                </tr>
+                <tr style="height: 15pt;" class="TableStyle-Columns-Body-Body1">
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1">Import a Project from  Remote Repository via SC&#160;Explorer</td>
                     <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
                     <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
                     <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
@@ -157,7 +220,7 @@
                 </tr>
                 <tr style="height: 15pt;" class="TableStyle-Columns-Body-Body1">
                     <td class="TableStyle-Columns-BodyE-Column2-Body1">
-                        <p class="p_3">Check Out Single File</p>
+                        <p class="p_3">Change then Save Single File</p>
                     </td>
                     <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
                     <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
@@ -168,45 +231,7 @@
                 </tr>
                 <tr style="height: 15pt;" class="TableStyle-Columns-Body-Body1">
                     <td class="TableStyle-Columns-BodyE-Column2-Body1">
-                        <p class="p_3">Undo Checkout of a Single File</p>
-                    </td>
-                    <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyD-Column2-Body1">&#160;</td>
-                </tr>
-                <tr style="height: 15pt;" class="TableStyle-Columns-Body-Body1" MadCap:conditions="SourceControl.TFS,SourceControl.SVN">
-                    <td class="TableStyle-Columns-BodyE-Column2-Body1">Lock a single file</td>
-                    <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyD-Column2-Body1">&#160;</td>
-                </tr>
-                <tr style="height: 15pt;" class="TableStyle-Columns-Body-Body1" MadCap:conditions="SourceControl.TFS,SourceControl.SVN">
-                    <td class="TableStyle-Columns-BodyE-Column2-Body1">Attempt to lock a file that is already locked</td>
-                    <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyD-Column2-Body1">&#160;</td>
-                </tr>
-                <tr style="height: 15pt;" class="TableStyle-Columns-Body-Body1" MadCap:conditions="SourceControl.TFS,SourceControl.SVN">
-                    <td class="TableStyle-Columns-BodyE-Column2-Body1">Lock a single file and check it in. On another computer lock the same file and check it in</td>
-                    <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyD-Column2-Body1">&#160;</td>
-                </tr>
-                <tr style="height: 15pt;" class="TableStyle-Columns-Body-Body1">
-                    <td class="TableStyle-Columns-BodyE-Column2-Body1">
-                        <p class="p_3">Attempt to Check Out Single File that is Checked out to another User</p>
+                        <p class="p_3">Revert Single File</p>
                     </td>
                     <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
                     <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
@@ -216,7 +241,7 @@
                     <td class="TableStyle-Columns-BodyD-Column2-Body1">&#160;</td>
                 </tr>
                 <tr style="height: 15pt;" class="TableStyle-Columns-Body-Body1">
-                    <td class="TableStyle-Columns-BodyE-Column2-Body1">Add new folder and drag an existing topic into that folder and check it in</td>
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1">Add new folder and drag an existing topic into that folder and commit</td>
                     <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
                     <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
                     <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
@@ -225,7 +250,7 @@
                     <td class="TableStyle-Columns-BodyD-Column2-Body1">&#160;</td>
                 </tr>
                 <tr style="height: 15pt;" class="TableStyle-Columns-Body-Body1">
-                    <td class="TableStyle-Columns-BodyE-Column2-Body1">Add new folder and create a new topic in that folder and check it in</td>
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1">Add new folder and create a new topic in that folder and commit</td>
                     <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
                     <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
                     <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
@@ -235,7 +260,27 @@
                 </tr>
                 <tr style="height: 15pt;" class="TableStyle-Columns-Body-Body1">
                     <td class="TableStyle-Columns-BodyE-Column2-Body1">
-                        <p class="p_3">Add Comment to Check In</p>
+                        <p class="p_3">Add Comment to a Commit</p>
+                    </td>
+                    <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
+                    <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
+                    <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
+                    <td class="TableStyle-Columns-BodyD-Column2-Body1">&#160;</td>
+                </tr>
+                <tr style="height: 15pt;" class="TableStyle-Columns-Body-Body1">
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1">Do Not add a Comment to a Commit (One needs to be made with Git, so check via git log via CMD line or in Remote Repo that Flare inserts a generic one)</td>
+                    <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
+                    <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
+                    <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
+                    <td class="TableStyle-Columns-BodyD-Column2-Body1">&#160;</td>
+                </tr>
+                <tr style="height: 15pt;" class="TableStyle-Columns-Body-Body1">
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1">
+                        <p class="p_3">Commit Single File</p>
                     </td>
                     <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
                     <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
@@ -246,29 +291,7 @@
                 </tr>
                 <tr style="height: 15pt;" class="TableStyle-Columns-Body-Body1">
                     <td class="TableStyle-Columns-BodyE-Column2-Body1">
-                        <p class="p_3">Check In Single File</p>
-                    </td>
-                    <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyD-Column2-Body1">&#160;</td>
-                </tr>
-                <tr style="height: 15pt;" class="TableStyle-Columns-Body-Body1">
-                    <td class="TableStyle-Columns-BodyE-Column2-Body1">
-                        <p class="p_3">Prompt to Save when checking in a file</p>
-                    </td>
-                    <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyD-Column2-Body1">&#160;</td>
-                </tr>
-                <tr style="height: 15pt;" class="TableStyle-Columns-Body-Body1">
-                    <td class="TableStyle-Columns-BodyE-Column2-Body1">
-                        <p class="p_3">Get Latest Single File</p>
+                        <p class="p_3">Prompt to Save when committing a file</p>
                     </td>
                     <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
                     <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
@@ -300,7 +323,7 @@
                     <td class="TableStyle-Columns-BodyD-Column2-Body1">&#160;</td>
                 </tr>
                 <tr style="height: 15pt;" class="TableStyle-Columns-Body-Body1">
-                    <td class="TableStyle-Columns-BodyE-Column2-Body1">View History of a Renamed File</td>
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1">View History of a Renamed File (with Git history is wiped)</td>
                     <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
                     <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
                     <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
@@ -328,7 +351,7 @@
                 </tr>
                 <tr style="height: 15pt;" class="TableStyle-Columns-Body-Body1">
                     <td class="TableStyle-Columns-BodyE-Column2-Body1">
-                        <p class="p_3">Check Out Multiple Files</p>
+                        <p class="p_3">Change then Save Multiple Files</p>
                     </td>
                     <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
                     <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
@@ -348,8 +371,10 @@
                     <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
                     <td class="TableStyle-Columns-BodyD-Column2-Body1">&#160;</td>
                 </tr>
-                <tr style="height: 15pt;" class="TableStyle-Columns-Body-Body1" MadCap:conditions="SourceControl.TFS,SourceControl.SVN">
-                    <td class="TableStyle-Columns-BodyE-Column2-Body1">Check out and lock multiple files</td>
+                <tr style="height: 15pt;" class="TableStyle-Columns-Body-Body1">
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1">
+                        <p class="p_3">Commit Multiple Files</p>
+                    </td>
                     <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
                     <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
                     <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
@@ -357,8 +382,8 @@
                     <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
                     <td class="TableStyle-Columns-BodyD-Column2-Body1">&#160;</td>
                 </tr>
-                <tr style="height: 15pt;" class="TableStyle-Columns-Body-Body1" MadCap:conditions="SourceControl.TFS,SourceControl.SVN">
-                    <td class="TableStyle-Columns-BodyE-Column2-Body1">Check out and lock multiple files when one or more are already locked</td>
+                <tr style="height: 15pt;" class="TableStyle-Columns-Body-Body1">
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1">Pull to get updated file</td>
                     <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
                     <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
                     <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
@@ -368,7 +393,7 @@
                 </tr>
                 <tr style="height: 15pt;" class="TableStyle-Columns-Body-Body1">
                     <td class="TableStyle-Columns-BodyE-Column2-Body1">
-                        <p class="p_3">Check In Multiple Files</p>
+                        <p class="p_3">Pull to get updated files</p>
                     </td>
                     <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
                     <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
@@ -379,18 +404,7 @@
                 </tr>
                 <tr style="height: 15pt;" class="TableStyle-Columns-Body-Body1">
                     <td class="TableStyle-Columns-BodyE-Column2-Body1">
-                        <p class="p_3">Get Latest Multiple Files</p>
-                    </td>
-                    <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyD-Column2-Body1">&#160;</td>
-                </tr>
-                <tr style="height: 15pt;" class="TableStyle-Columns-Body-Body1">
-                    <td class="TableStyle-Columns-BodyE-Column2-Body1">
-                        <p class="p_3">Undo Checkout of Multiple Files</p>
+                        <p class="p_3">Revert All Multiple Files</p>
                     </td>
                     <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
                     <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
@@ -412,7 +426,7 @@
                 </tr>
                 <tr style="height: 15pt;" class="TableStyle-Columns-Body-Body1">
                     <td class="TableStyle-Columns-BodyE-Column2-Body1">
-                        <p class="p_3">Move&#160; Multiple Files to a Subfolder</p>
+                        <p class="p_3">Move Multiple Files to a Subfolder</p>
                     </td>
                     <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
                     <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
@@ -444,7 +458,7 @@
                     <td class="TableStyle-Columns-BodyD-Column2-Body1">&#160;</td>
                 </tr>
                 <tr style="height: 15pt;" class="TableStyle-Columns-Body-Body1">
-                    <td class="TableStyle-Columns-BodyE-Column2-Body1">Move a folder that has all checked-in files that link to other files</td>
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1">Move a folder that has all committed files that link to other files</td>
                     <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
                     <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
                     <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
@@ -453,7 +467,7 @@
                     <td class="TableStyle-Columns-BodyD-Column2-Body1">&#160;</td>
                 </tr>
                 <tr style="height: 15pt;" class="TableStyle-Columns-Body-Body1">
-                    <td class="TableStyle-Columns-BodyE-Column2-Body1">Move a folder  that has all checked-out files that link to other files</td>
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1">Move a folder  that has all Modified files that link to other files</td>
                     <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
                     <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
                     <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
@@ -462,7 +476,7 @@
                     <td class="TableStyle-Columns-BodyD-Column2-Body1">&#160;</td>
                 </tr>
                 <tr style="height: 15pt;" class="TableStyle-Columns-Body-Body1">
-                    <td class="TableStyle-Columns-BodyE-Column2-Body1">Move a folder that has a mix of checked-in, checked-out, and pending-add files</td>
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1">Move a folder that has a mix of Committed, Modified, and pending-add files</td>
                     <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
                     <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
                     <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
@@ -471,7 +485,7 @@
                     <td class="TableStyle-Columns-BodyD-Column2-Body1">&#160;</td>
                 </tr>
                 <tr style="height: 15pt;" class="TableStyle-Columns-Body-Body1">
-                    <td class="TableStyle-Columns-BodyE-Column2-Body1">Rename a folder that has all checked-in files that link to other files</td>
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1">Rename a folder that has all Committed files that link to other files</td>
                     <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
                     <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
                     <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
@@ -480,7 +494,7 @@
                     <td class="TableStyle-Columns-BodyD-Column2-Body1">&#160;</td>
                 </tr>
                 <tr style="height: 15pt;" class="TableStyle-Columns-Body-Body1">
-                    <td class="TableStyle-Columns-BodyE-Column2-Body1">Rename a folder  that has all checked-out files that link to other files</td>
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1">Rename a folder  that has all Modified files that link to other files</td>
                     <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
                     <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
                     <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
@@ -489,7 +503,7 @@
                     <td class="TableStyle-Columns-BodyD-Column2-Body1">&#160;</td>
                 </tr>
                 <tr style="height: 15pt;" class="TableStyle-Columns-Body-Body1">
-                    <td class="TableStyle-Columns-BodyE-Column2-Body1">Rename a folder that has a mix of checked-in, checked-out, and pending-add files</td>
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1">Rename a folder that has a mix of Committed, Modified, and pending-add files</td>
                     <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
                     <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
                     <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
@@ -503,7 +517,16 @@
                     <td class="TableStyle-Columns-BodyD-Column2-Body1">&#160;</td>
                 </tr>
                 <tr style="height: 15pt;" class="TableStyle-Columns-Body-Body1">
-                    <td class="TableStyle-Columns-BodyE-Column2-Body1">Delete a checked-in file and check-in the change</td>
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1">Delete a Committed file and Commit the change</td>
+                    <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
+                    <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
+                    <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
+                    <td class="TableStyle-Columns-BodyD-Column2-Body1">&#160;</td>
+                </tr>
+                <tr style="height: 15pt;" class="TableStyle-Columns-Body-Body1">
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1">Delete a Committed file and Commit the change then Push</td>
                     <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
                     <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
                     <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
@@ -513,8 +536,17 @@
                 </tr>
                 <tr style="height: 15pt;" class="TableStyle-Columns-Body-Body1">
                     <td class="TableStyle-Columns-BodyE-Column2-Body1">
-                        <p>Delete a checked-out file and check-in the change</p>
+                        <p>Delete a Modified file and Commit the change</p>
                     </td>
+                    <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
+                    <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
+                    <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
+                    <td class="TableStyle-Columns-BodyD-Column2-Body1">&#160;</td>
+                </tr>
+                <tr style="height: 15pt;" class="TableStyle-Columns-Body-Body1">
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1">Delete a Modified file and Commit the change then Push</td>
                     <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
                     <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
                     <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
@@ -532,7 +564,7 @@
                     <td class="TableStyle-Columns-BodyD-Column2-Body1">&#160;</td>
                 </tr>
                 <tr style="height: 15pt;" class="TableStyle-Columns-Body-Body1">
-                    <td class="TableStyle-Columns-BodyE-Column2-Body1">Delete a folder with all checked-in files</td>
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1">Delete a folder with all Committed files</td>
                     <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
                     <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
                     <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
@@ -541,7 +573,7 @@
                     <td class="TableStyle-Columns-BodyD-Column2-Body1">&#160;</td>
                 </tr>
                 <tr style="height: 15pt;" class="TableStyle-Columns-Body-Body1">
-                    <td class="TableStyle-Columns-BodyE-Column2-Body1">Delete a folder with all checked-out files</td>
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1">Delete a folder with all Modified files</td>
                     <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
                     <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
                     <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
@@ -559,7 +591,7 @@
                     <td class="TableStyle-Columns-BodyD-Column2-Body1">&#160;</td>
                 </tr>
                 <tr style="height: 15pt;" class="TableStyle-Columns-Body-Body1">
-                    <td class="TableStyle-Columns-BodyE-Column2-Body1">Delete a folder with a mix of checked-in, checked-out, and pending-add files</td>
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1">Delete a folder with a mix of Committed, Modified, and pending-add files</td>
                     <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
                     <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
                     <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
@@ -656,39 +688,6 @@
                 <tr style="height: 15pt;" class="TableStyle-Columns-Body-Body1" MadCap:conditions="SourceControl.multi-user">
                     <td class="TableStyle-Columns-BodyE-Column2-Body1">
                         <p class="p_3">IM User Status</p>
-                    </td>
-                    <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyD-Column2-Body1">&#160;</td>
-                </tr>
-                <tr style="height: 15pt;" class="TableStyle-Columns-Body-Body1" MadCap:conditions="SourceControl.TFS,SourceControl.VSS">
-                    <td class="TableStyle-Columns-BodyE-Column2-Body1">
-                        <p class="p_3">Request Check in of a Single File</p>
-                    </td>
-                    <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyD-Column2-Body1">&#160;</td>
-                </tr>
-                <tr style="height: 15pt;" class="TableStyle-Columns-Body-Body1" MadCap:conditions="SourceControl.TFS,SourceControl.VSS">
-                    <td class="TableStyle-Columns-BodyE-Column2-Body1">
-                        <p class="p_3">Request View of a Single File</p>
-                    </td>
-                    <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyD-Column2-Body1">&#160;</td>
-                </tr>
-                <tr style="height: 15pt;" class="TableStyle-Columns-Body-Body1" MadCap:conditions="SourceControl.VSS,SourceControl.TFS">
-                    <td class="TableStyle-Columns-BodyE-Column2-Body1">
-                        <p class="p_3">Request Check In&#160; via Email</p>
                     </td>
                     <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
                     <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
