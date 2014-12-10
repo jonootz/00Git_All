@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="6" MadCap:lastHeight="3469" MadCap:lastWidth="1081">
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="6" MadCap:lastHeight="3522" MadCap:lastWidth="1081">
     <head>
         <link href="../../TableStyles/Columns.css" rel="stylesheet" MadCap:stylesheetType="table" href-original="../../TableStyles/Columns.css" />
     </head>
@@ -1025,7 +1025,7 @@
                     <td class="TableStyle-Columns-BodyD-Column2-Body1">&#160;</td>
                 </tr>
                 <tr style="height: 15pt;" class="TableStyle-Columns-Body-Body1">
-                    <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1">is there a way to see status of all branches?</td>
                     <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
                     <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
                     <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
@@ -1034,7 +1034,7 @@
                     <td class="TableStyle-Columns-BodyD-Column2-Body1">&#160;</td>
                 </tr>
                 <tr style="height: 15pt;" class="TableStyle-Columns-Body-Body1">
-                    <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1">Modify then Pull then Commit (should get conflict committing)</td>
                     <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
                     <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
                     <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
@@ -1043,7 +1043,7 @@
                     <td class="TableStyle-Columns-BodyD-Column2-Body1">&#160;</td>
                 </tr>
                 <tr style="height: 15pt;" class="TableStyle-Columns-Body-Body1">
-                    <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1">Pull then Modify then Commit (should not get diff)</td>
                     <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
                     <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
                     <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
@@ -1052,7 +1052,7 @@
                     <td class="TableStyle-Columns-BodyD-Column2-Body1">&#160;</td>
                 </tr>
                 <tr style="height: 15pt;" class="TableStyle-Columns-Body-Body1">
-                    <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1">Modify then Pull then Commit then Push (should get conflict committing)</td>
                     <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
                     <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
                     <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
@@ -1061,7 +1061,7 @@
                     <td class="TableStyle-Columns-BodyD-Column2-Body1">&#160;</td>
                 </tr>
                 <tr style="height: 15pt;" class="TableStyle-Columns-Body-Body1">
-                    <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1">Pull then Modify then Commit then Push (should not get diff)</td>
                     <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
                     <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
                     <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
