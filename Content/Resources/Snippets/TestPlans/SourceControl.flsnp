@@ -9,7 +9,7 @@
         <table class="TableStyle-Columns" style="caption-side: top;mc-table-style-original: url('../../TableStyles/Columns.css');mc-table-style: url('../../TableStyles/Columns.css');" cellspacing="0">
             <col style="width: 19pt;" class="TableStyle-Columns-Column-Column2" />
             <col style="width: 325pt;" class="TableStyle-Columns-Column-Column1" />
-            <col style="width: 83pt;" class="TableStyle-Columns-Column-Column2" />
+            <col style="width: 82pt;" class="TableStyle-Columns-Column-Column2" />
             <col style="width: 112pt;" class="TableStyle-Columns-Column-Column1" />
             <col style="width: 82pt;" class="TableStyle-Columns-Column-Column2" />
             <col style="width: 83pt;" class="TableStyle-Columns-Column-Column1" />
@@ -199,32 +199,32 @@
                 <tr style="height: 15pt;" class="TableStyle-Columns-Body-Body1">
                     <td class="TableStyle-Columns-BodyE-Column2-Body1">13</td>
                     <td class="TableStyle-Columns-BodyE-Column1-Body1">Synchronize with  Remote Repository when changes in local</td>
-                    <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1">c</td>
+                    <td class="TableStyle-Columns-BodyE-Column1-Body1">c</td>
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1">c</td>
+                    <td class="TableStyle-Columns-BodyE-Column1-Body1">c</td>
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1">c</td>
                     <td class="TableStyle-Columns-BodyD-Column1-Body1">&#160;</td>
                 </tr>
                 <tr style="height: 15pt;" class="TableStyle-Columns-Body-Body1">
                     <td class="TableStyle-Columns-BodyE-Column2-Body1">14</td>
                     <td class="TableStyle-Columns-BodyE-Column1-Body1">Synchronize with  Remote Repository when changes in both</td>
-                    <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1">c</td>
+                    <td class="TableStyle-Columns-BodyE-Column1-Body1">c</td>
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1">c</td>
+                    <td class="TableStyle-Columns-BodyE-Column1-Body1">c</td>
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1">c</td>
                     <td class="TableStyle-Columns-BodyD-Column1-Body1">&#160;</td>
                 </tr>
                 <tr style="height: 15pt;" class="TableStyle-Columns-Body-Body1">
                     <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
                     <td class="TableStyle-Columns-BodyE-Column1-Body1">Pull or Sync with Remote when changes in Remote, do commits come down to local repo (for now run git log in Git BASH)</td>
-                    <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyD-Column1-Body1">&#160;</td>
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1">-</td>
+                    <td class="TableStyle-Columns-BodyE-Column1-Body1">-</td>
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1">-</td>
+                    <td class="TableStyle-Columns-BodyE-Column1-Body1">-</td>
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1">-</td>
+                    <td class="TableStyle-Columns-BodyD-Column1-Body1">y</td>
                 </tr>
                 <tr style="height: 15pt;" class="TableStyle-Columns-Body-Body1">
                     <td class="TableStyle-Columns-BodyE-Column2-Body1">15</td>
@@ -379,11 +379,11 @@
                     <td class="TableStyle-Columns-BodyE-Column1-Body1">
                         <p class="p_3">Commit Single File</p>
                     </td>
-                    <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1">c</td>
+                    <td class="TableStyle-Columns-BodyE-Column1-Body1">c</td>
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1">c</td>
+                    <td class="TableStyle-Columns-BodyE-Column1-Body1">c</td>
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1">c</td>
                     <td class="TableStyle-Columns-BodyD-Column1-Body1">&#160;</td>
                 </tr>
                 <tr style="height: 15pt;" class="TableStyle-Columns-Body-Body1">
@@ -391,11 +391,11 @@
                     <td class="TableStyle-Columns-BodyE-Column1-Body1">
                         <p class="p_3">Prompt to Save when committing a file</p>
                     </td>
-                    <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1">c</td>
+                    <td class="TableStyle-Columns-BodyE-Column1-Body1">c</td>
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1">c</td>
+                    <td class="TableStyle-Columns-BodyE-Column1-Body1">c</td>
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1">c</td>
                     <td class="TableStyle-Columns-BodyD-Column1-Body1">&#160;</td>
                 </tr>
                 <tr style="height: 15pt;" class="TableStyle-Columns-Body-Body1">
@@ -403,11 +403,11 @@
                     <td class="TableStyle-Columns-BodyE-Column1-Body1">
                         <p class="p_3">View History of a Single File</p>
                     </td>
-                    <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1">c</td>
+                    <td class="TableStyle-Columns-BodyE-Column1-Body1">c</td>
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1">c</td>
+                    <td class="TableStyle-Columns-BodyE-Column1-Body1">c</td>
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1">c</td>
                     <td class="TableStyle-Columns-BodyD-Column1-Body1">&#160;</td>
                 </tr>
                 <tr style="height: 15pt;" class="TableStyle-Columns-Body-Body1">
@@ -827,24 +827,24 @@
                     <td class="TableStyle-Columns-BodyE-Column1-Body1">
                         <p class="p_3">Sending an Instant Message</p>
                     </td>
-                    <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyD-Column1-Body1">&#160;</td>
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1">n/a</td>
+                    <td class="TableStyle-Columns-BodyE-Column1-Body1">n/a</td>
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1">n/a</td>
+                    <td class="TableStyle-Columns-BodyE-Column1-Body1">n/a</td>
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1">n/a</td>
+                    <td class="TableStyle-Columns-BodyD-Column1-Body1">n/a?</td>
                 </tr>
                 <tr style="height: 15pt;" class="TableStyle-Columns-Body-Body1" MadCap:conditions="SourceControl.multi-user">
                     <td class="TableStyle-Columns-BodyE-Column2-Body1">67</td>
                     <td class="TableStyle-Columns-BodyE-Column1-Body1">
                         <p class="p_3">IM User Status</p>
                     </td>
-                    <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyD-Column1-Body1">&#160;</td>
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1">n/a</td>
+                    <td class="TableStyle-Columns-BodyE-Column1-Body1">n/a</td>
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1">n/a</td>
+                    <td class="TableStyle-Columns-BodyE-Column1-Body1">n/a</td>
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1">n/a</td>
+                    <td class="TableStyle-Columns-BodyD-Column1-Body1">n/a?</td>
                 </tr>
                 <tr style="height: 15pt;" class="TableStyle-Columns-Body-Body1">
                     <td class="TableStyle-Columns-BodyE-Column2-Body1">68</td>
@@ -968,7 +968,7 @@
                     <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
                     <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
                     <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyD-Column1-Body1">&#160;</td>
+                    <td class="TableStyle-Columns-BodyD-Column1-Body1">y</td>
                 </tr>
                 <tr style="height: 15pt;" class="TableStyle-Columns-Body-Body1" MadCap:conditions="SourceControl.DetailedTesting">
                     <td class="TableStyle-Columns-BodyE-Column2-Body1">78</td>
