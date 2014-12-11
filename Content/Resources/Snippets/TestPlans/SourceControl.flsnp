@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="6" MadCap:lastHeight="4190" MadCap:lastWidth="1141">
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="6" MadCap:lastHeight="4211" MadCap:lastWidth="1466">
     <head>
         <link href="../../TableStyles/Columns.css" rel="stylesheet" MadCap:stylesheetType="table" href-original="../../TableStyles/Columns.css" />
     </head>
@@ -513,12 +513,22 @@
                     <td class="TableStyle-Columns-BodyE-Column1-Body1">
                         <p class="p_3">Pull to get updated files</p>
                     </td>
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1">-</td>
+                    <td class="TableStyle-Columns-BodyE-Column1-Body1">-</td>
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1">-</td>
+                    <td class="TableStyle-Columns-BodyE-Column1-Body1">-</td>
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1">-</td>
+                    <td class="TableStyle-Columns-BodyD-Column1-Body1">y</td>
+                </tr>
+                <tr style="height: 15pt;" class="TableStyle-Columns-Body-Body1">
                     <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyD-Column1-Body1">&#160;</td>
+                    <td class="TableStyle-Columns-BodyE-Column1-Body1">Pull in one branch when changes are in another - should not get </td>
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1">-</td>
+                    <td class="TableStyle-Columns-BodyE-Column1-Body1">-</td>
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1">-</td>
+                    <td class="TableStyle-Columns-BodyE-Column1-Body1">-</td>
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1">-</td>
+                    <td class="TableStyle-Columns-BodyD-Column1-Body1">y</td>
                 </tr>
                 <tr style="height: 15pt;" class="TableStyle-Columns-Body-Body1">
                     <td class="TableStyle-Columns-BodyE-Column2-Body1">39</td>
