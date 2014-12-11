@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="6" MadCap:lastHeight="3969" MadCap:lastWidth="1143">
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="6" MadCap:lastHeight="3975" MadCap:lastWidth="1143">
     <head>
         <link href="../../TableStyles/Columns.css" rel="stylesheet" MadCap:stylesheetType="table" href-original="../../TableStyles/Columns.css" />
     </head>
@@ -8,10 +8,10 @@
         <p>&#160;</p>
         <table class="TableStyle-Columns" style="caption-side: top;mc-table-style-original: url('../../TableStyles/Columns.css');mc-table-style: url('../../TableStyles/Columns.css');" cellspacing="0">
             <col style="width: 19pt;" class="TableStyle-Columns-Column-Column2" />
-            <col style="width: 323pt;" class="TableStyle-Columns-Column-Column1" />
+            <col style="width: 325pt;" class="TableStyle-Columns-Column-Column1" />
             <col style="width: 83pt;" class="TableStyle-Columns-Column-Column2" />
             <col style="width: 112pt;" class="TableStyle-Columns-Column-Column1" />
-            <col style="width: 83pt;" class="TableStyle-Columns-Column-Column2" />
+            <col style="width: 82pt;" class="TableStyle-Columns-Column-Column2" />
             <col style="width: 83pt;" class="TableStyle-Columns-Column-Column1" />
             <col style="width: 83pt;" class="TableStyle-Columns-Column-Column2" />
             <col style="width: 38pt;" class="TableStyle-Columns-Column-Column1" />
@@ -69,7 +69,7 @@
                     <td class="TableStyle-Columns-BodyE-Column1-Body1">c</td>
                     <td class="TableStyle-Columns-BodyE-Column2-Body1">c</td>
                     <td class="TableStyle-Columns-BodyE-Column1-Body1">c</td>
-                    <td class="TableStyle-Columns-BodyE-Column2-Body1">c (should Database show remote when there is a Remote)</td>
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1">c (bug96424)</td>
                     <td class="TableStyle-Columns-BodyD-Column1-Body1">&#160;</td>
                 </tr>
                 <tr style="height: 15pt;" class="TableStyle-Columns-Body-Body1">
@@ -77,64 +77,84 @@
                     <td class="TableStyle-Columns-BodyE-Column1-Body1">
                         <p class="p_3">Bind existing Project to VC</p>
                     </td>
-                    <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1">c</td>
+                    <td class="TableStyle-Columns-BodyE-Column1-Body1">c</td>
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1">n/a</td>
+                    <td class="TableStyle-Columns-BodyE-Column1-Body1">c</td>
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1">c</td>
                     <td class="TableStyle-Columns-BodyD-Column1-Body1">y</td>
                 </tr>
                 <tr style="height: 15pt;" class="TableStyle-Columns-Body-Body1">
                     <td class="TableStyle-Columns-BodyE-Column2-Body1">4</td>
                     <td class="TableStyle-Columns-BodyE-Column1-Body1">Bind existing Project to VC via SC&#160;Explorer</td>
-                    <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1">c</td>
+                    <td class="TableStyle-Columns-BodyE-Column1-Body1">c</td>
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1">n/a</td>
+                    <td class="TableStyle-Columns-BodyE-Column1-Body1">refresh issue bug it</td>
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1">c</td>
                     <td class="TableStyle-Columns-BodyD-Column1-Body1">y</td>
+                </tr>
+                <tr style="height: 15pt;" class="TableStyle-Columns-Body-Body1">
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1">4a</td>
+                    <td class="TableStyle-Columns-BodyE-Column1-Body1">Bind existing Project to VC/Push on Bind to Remote</td>
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1">c</td>
+                    <td class="TableStyle-Columns-BodyE-Column1-Body1">c</td>
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1">c</td>
+                    <td class="TableStyle-Columns-BodyE-Column1-Body1">c</td>
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1">c (bug96424)</td>
+                    <td class="TableStyle-Columns-BodyD-Column1-Body1">&#160;</td>
                 </tr>
                 <tr style="height: 15pt;" class="TableStyle-Columns-Body-Body1">
                     <td class="TableStyle-Columns-BodyE-Column2-Body1">5</td>
                     <td class="TableStyle-Columns-BodyE-Column1-Body1">
                         <p class="p_3">Unbind a Project from VC</p>
                     </td>
-                    <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1">c</td>
+                    <td class="TableStyle-Columns-BodyE-Column1-Body1">c</td>
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1">c</td>
+                    <td class="TableStyle-Columns-BodyE-Column1-Body1">c</td>
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1">c</td>
                     <td class="TableStyle-Columns-BodyD-Column1-Body1">y</td>
                 </tr>
                 <tr style="height: 15pt;" class="TableStyle-Columns-Body-Body1">
                     <td class="TableStyle-Columns-BodyE-Column2-Body1">6</td>
                     <td class="TableStyle-Columns-BodyE-Column1-Body1">Unbind a Project from VC  via SC&#160;Explorer</td>
-                    <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1">c</td>
+                    <td class="TableStyle-Columns-BodyE-Column1-Body1">c</td>
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1">c</td>
+                    <td class="TableStyle-Columns-BodyE-Column1-Body1">c</td>
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1">c</td>
                     <td class="TableStyle-Columns-BodyD-Column1-Body1">y</td>
                 </tr>
                 <tr style="height: 15pt;" class="TableStyle-Columns-Body-Body1">
                     <td class="TableStyle-Columns-BodyE-Column2-Body1">7</td>
                     <td class="TableStyle-Columns-BodyE-Column1-Body1">After Unbinding Project from VC - make some changes to files/folders in local project and make sure the copy in the repository is not affected</td>
-                    <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1">-</td>
+                    <td class="TableStyle-Columns-BodyE-Column1-Body1">-</td>
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1">c</td>
+                    <td class="TableStyle-Columns-BodyE-Column1-Body1">-</td>
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1">-</td>
                     <td class="TableStyle-Columns-BodyD-Column1-Body1">y</td>
                 </tr>
                 <tr style="height: 15pt;" class="TableStyle-Columns-Body-Body1">
                     <td class="TableStyle-Columns-BodyE-Column2-Body1">8</td>
                     <td class="TableStyle-Columns-BodyE-Column1-Body1">After Unbinding Project from VC via SC&#160;Explorer - make some changes to files/folders in local project and make sure the copy in the repository is not affected</td>
-                    <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1">-</td>
+                    <td class="TableStyle-Columns-BodyE-Column1-Body1">-</td>
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1">c</td>
+                    <td class="TableStyle-Columns-BodyE-Column1-Body1">-</td>
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1">-</td>
                     <td class="TableStyle-Columns-BodyD-Column1-Body1">y</td>
+                </tr>
+                <tr style="height: 15pt;" class="TableStyle-Columns-Body-Body1">
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1">8a</td>
+                    <td class="TableStyle-Columns-BodyE-Column1-Body1">Unbind from VC that has remote then bind and Push to a new remote, is the old one affected?</td>
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1">-</td>
+                    <td class="TableStyle-Columns-BodyE-Column1-Body1">-</td>
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1">c</td>
+                    <td class="TableStyle-Columns-BodyE-Column1-Body1">-</td>
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1">-</td>
+                    <td class="TableStyle-Columns-BodyD-Column1-Body1">&#160;</td>
                 </tr>
                 <tr style="height: 15pt;" class="TableStyle-Columns-Body-Body1">
                     <td class="TableStyle-Columns-BodyE-Column2-Body1">9</td>
@@ -327,22 +347,22 @@
                     <td class="TableStyle-Columns-BodyE-Column1-Body1">
                         <p class="p_3">Add Comment to a Commit</p>
                     </td>
-                    <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyD-Column1-Body1">&#160;</td>
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1">-</td>
+                    <td class="TableStyle-Columns-BodyE-Column1-Body1">-</td>
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1">-</td>
+                    <td class="TableStyle-Columns-BodyE-Column1-Body1">-</td>
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1">-</td>
+                    <td class="TableStyle-Columns-BodyD-Column1-Body1">c</td>
                 </tr>
                 <tr style="height: 15pt;" class="TableStyle-Columns-Body-Body1">
                     <td class="TableStyle-Columns-BodyE-Column2-Body1">27</td>
                     <td class="TableStyle-Columns-BodyE-Column1-Body1">Do Not add a Comment to a Commit (One needs to be made with Git, so check via git log via CMD line or in Remote Repo that Flare inserts a generic one)</td>
-                    <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyD-Column1-Body1">&#160;</td>
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1">-</td>
+                    <td class="TableStyle-Columns-BodyE-Column1-Body1">-</td>
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1">-</td>
+                    <td class="TableStyle-Columns-BodyE-Column1-Body1">-</td>
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1">-</td>
+                    <td class="TableStyle-Columns-BodyD-Column1-Body1">c</td>
                 </tr>
                 <tr style="height: 15pt;" class="TableStyle-Columns-Body-Body1">
                     <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
