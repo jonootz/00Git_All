@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="6" MadCap:lastHeight="4228" MadCap:lastWidth="1466">
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="6" MadCap:lastHeight="4247" MadCap:lastWidth="1466">
     <head>
         <link href="../../TableStyles/Columns.css" rel="stylesheet" MadCap:stylesheetType="table" href-original="../../TableStyles/Columns.css" />
     </head>
@@ -25,7 +25,7 @@
                     </th>
                     <th class="TableStyle-Columns-HeadE-Column1-Header1">
                         <p>Status in </p>
-                        <p>Pending Check-in Window</p>
+                        <p>Pending Changes Window</p>
                     </th>
                     <th class="TableStyle-Columns-HeadE-Column2-Header1">
                         <p>Status in</p>
@@ -36,7 +36,7 @@
                         <p>File List Window</p>
                     </th>
                     <th class="TableStyle-Columns-HeadE-Column2-Header1">
-                        <p>Status in Provider Explorer</p>
+                        <p>Status in Source Control Explorer</p>
                     </th>
                     <th class="TableStyle-Columns-HeadD-Column1-Header1">
                         <p>Smoke&#160;Test</p>
@@ -535,11 +535,11 @@
                     <td class="TableStyle-Columns-BodyE-Column1-Body1">
                         <p class="p_3">Revert All Multiple Files</p>
                     </td>
-                    <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1">c</td>
+                    <td class="TableStyle-Columns-BodyE-Column1-Body1">c</td>
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1">c</td>
+                    <td class="TableStyle-Columns-BodyE-Column1-Body1">c</td>
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1">c</td>
                     <td class="TableStyle-Columns-BodyD-Column1-Body1">&#160;</td>
                 </tr>
                 <tr style="height: 15pt;" class="TableStyle-Columns-Body-Body1">
@@ -1291,11 +1291,11 @@
                 <tr style="height: 15pt;" class="TableStyle-Columns-Body-Body1">
                     <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
                     <td class="TableStyle-Columns-BodyE-Column1-Body1">committing just this one when some are dirty and some are saved</td>
-                    <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1">c</td>
+                    <td class="TableStyle-Columns-BodyE-Column1-Body1">c</td>
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1">c</td>
+                    <td class="TableStyle-Columns-BodyE-Column1-Body1">c</td>
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1">c</td>
                     <td class="TableStyle-Columns-BodyD-Column1-Body1">y</td>
                 </tr>
                 <tr style="height: 15pt;" class="TableStyle-Columns-Body-Body1">
