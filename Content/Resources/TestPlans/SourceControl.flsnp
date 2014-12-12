@@ -1,12 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="6" MadCap:lastHeight="4247" MadCap:lastWidth="1212">
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="6" MadCap:lastHeight="4247" MadCap:lastWidth="1211">
     <head>
-        <link href="../../TableStyles/Columns.css" rel="stylesheet" MadCap:stylesheetType="table" />
+        <link href="../TableStyles/Columns.css" rel="stylesheet" MadCap:stylesheetType="table" />
     </head>
     <body>
         <p class="Open">Starting with Flare 9, there is a "Web Print Mobile" template project that is a good test project with files that are interlinked to other files.</p>
         <p>&#160;</p>
-        <table class="TableStyle-Columns" style="caption-side: top;mc-table-style-original: url('../../../../TableStyles/Columns.css');mc-table-style: url('../../TableStyles/Columns.css');" cellspacing="0">
+        <table class="TableStyle-Columns" style="caption-side: top;mc-table-style-original: url('../../../TableStyles/Columns.css');mc-table-style: url('../TableStyles/Columns.css');" cellspacing="0">
             <col style="width: 19pt;" class="TableStyle-Columns-Column-Column2" />
             <col style="width: 325pt;" class="TableStyle-Columns-Column-Column1" />
             <col style="width: 82pt;" class="TableStyle-Columns-Column-Column2" />
@@ -593,11 +593,11 @@
                 <tr style="height: 15pt;" class="TableStyle-Columns-Body-Body1">
                     <td class="TableStyle-Columns-BodyE-Column2-Body1">44</td>
                     <td class="TableStyle-Columns-BodyE-Column1-Body1">Move a folder that has all committed files that link to other files</td>
-                    <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1">c</td>
+                    <td class="TableStyle-Columns-BodyE-Column1-Body1">c</td>
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1">c</td>
+                    <td class="TableStyle-Columns-BodyE-Column1-Body1">c</td>
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1">c</td>
                     <td class="TableStyle-Columns-BodyD-Column1-Body1">&#160;</td>
                 </tr>
                 <tr style="height: 15pt;" class="TableStyle-Columns-Body-Body1">
