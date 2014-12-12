@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="6" MadCap:lastHeight="4247" MadCap:lastWidth="1211">
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="6" MadCap:lastHeight="4247" MadCap:lastWidth="1857">
     <head>
         <link href="../TableStyles/Columns.css" rel="stylesheet" MadCap:stylesheetType="table" />
     </head>
@@ -603,17 +603,17 @@
                 <tr style="height: 15pt;" class="TableStyle-Columns-Body-Body1">
                     <td class="TableStyle-Columns-BodyE-Column2-Body1">45</td>
                     <td class="TableStyle-Columns-BodyE-Column1-Body1">Move a folder  that has all Modified files that link to other files</td>
-                    <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1">c</td>
+                    <td class="TableStyle-Columns-BodyE-Column1-Body1">c</td>
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1">c</td>
+                    <td class="TableStyle-Columns-BodyE-Column1-Body1">c</td>
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1">c</td>
                     <td class="TableStyle-Columns-BodyD-Column1-Body1">&#160;</td>
                 </tr>
                 <tr style="height: 15pt;" class="TableStyle-Columns-Body-Body1">
                     <td class="TableStyle-Columns-BodyE-Column2-Body1">46</td>
                     <td class="TableStyle-Columns-BodyE-Column1-Body1">Move a folder that has a mix of Committed, Modified, and pending-add files</td>
-                    <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1">bugs 96489 &amp; 96490</td>
                     <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
                     <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
                     <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
@@ -623,11 +623,11 @@
                 <tr style="height: 15pt;" class="TableStyle-Columns-Body-Body1">
                     <td class="TableStyle-Columns-BodyE-Column2-Body1">47</td>
                     <td class="TableStyle-Columns-BodyE-Column1-Body1">Rename a folder that has all Committed files that link to other files</td>
-                    <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1">c</td>
+                    <td class="TableStyle-Columns-BodyE-Column1-Body1">c</td>
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1">c</td>
+                    <td class="TableStyle-Columns-BodyE-Column1-Body1">c</td>
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1">c</td>
                     <td class="TableStyle-Columns-BodyD-Column1-Body1">&#160;</td>
                 </tr>
                 <tr style="height: 15pt;" class="TableStyle-Columns-Body-Body1">
