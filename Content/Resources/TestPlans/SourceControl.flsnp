@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="6" MadCap:lastHeight="4579" MadCap:lastWidth="1141">
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="6" MadCap:lastHeight="4598" MadCap:lastWidth="1141">
     <head>
         <link href="../TableStyles/Columns.css" rel="stylesheet" MadCap:stylesheetType="table" />
     </head>
@@ -642,7 +642,7 @@
                 </tr>
                 <tr style="height: 15pt;" class="TableStyle-Columns-Body-Body1">
                     <td class="TableStyle-Columns-BodyE-Column2-Body1">49</td>
-                    <td class="TableStyle-Columns-BodyE-Column1-Body1">Rename a folder that has a mix of Committed, Modified, and pending-add files</td>
+                    <td class="TableStyle-Columns-BodyE-Column1-Body1">Rename a folder that has a mix of Committed, Modified, and pending-add filesccc</td>
                     <td class="TableStyle-Columns-BodyE-Column2-Body1">bug 96498</td>
                     <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
                     <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
