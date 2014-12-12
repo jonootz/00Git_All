@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="6" MadCap:lastHeight="4598" MadCap:lastWidth="1141">
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="6" MadCap:lastHeight="4766" MadCap:lastWidth="1141">
     <head>
         <link href="../TableStyles/Columns.css" rel="stylesheet" MadCap:stylesheetType="table" />
     </head>
@@ -947,7 +947,10 @@
                 <tr style="height: 15pt;" class="TableStyle-Columns-Body-Body1" MadCap:conditions="SourceControl.DetailedTesting">
                     <td class="TableStyle-Columns-BodyE-Column2-Body1">78</td>
                     <td class="TableStyle-Columns-BodyE-Column1-Body1">Import a project into Analyzer that is bound to source control </td>
-                    <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1">
+                        <p>push , pull, sync, and branch missing from analyzer</p>
+                        <p>also in analyzer 7, getting cant connect to SC (which is good i think)</p>
+                    </td>
                     <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
                     <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
                     <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
