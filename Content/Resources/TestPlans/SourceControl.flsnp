@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="6" MadCap:lastHeight="4665" MadCap:lastWidth="1217">
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="6" MadCap:lastHeight="4579" MadCap:lastWidth="1141">
     <head>
         <link href="../TableStyles/Columns.css" rel="stylesheet" MadCap:stylesheetType="table" />
     </head>
@@ -851,7 +851,7 @@
                     </td>
                     <td class="TableStyle-Columns-BodyE-Column2-Body1">n/a</td>
                     <td class="TableStyle-Columns-BodyE-Column1-Body1">n/a</td>
-                    <td class="TableStyle-Columns-BodyE-Column2-Body1">n/a</td>
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1">n/a-</td>
                     <td class="TableStyle-Columns-BodyE-Column1-Body1">n/a</td>
                     <td class="TableStyle-Columns-BodyE-Column2-Body1">n/a</td>
                     <td class="TableStyle-Columns-BodyD-Column1-Body1">n/a?</td>
@@ -861,12 +861,12 @@
                     <td class="TableStyle-Columns-BodyE-Column1-Body1">
                         <p class="p_3">Get latest on project Open</p>
                     </td>
-                    <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyD-Column1-Body1">&#160;</td>
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1">-</td>
+                    <td class="TableStyle-Columns-BodyE-Column1-Body1">-</td>
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1">-</td>
+                    <td class="TableStyle-Columns-BodyE-Column1-Body1">-</td>
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1">-</td>
+                    <td class="TableStyle-Columns-BodyD-Column1-Body1">y</td>
                 </tr>
                 <tr style="height: 15pt;" class="TableStyle-Columns-Body-Body1" MadCap:conditions="SourceControl.DetailedTesting">
                     <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
@@ -879,18 +879,6 @@
                 <tr style="height: 15pt;" class="TableStyle-Columns-Body-Body1" MadCap:conditions="SourceControl.DetailedTesting">
                     <td class="TableStyle-Columns-BodyE-Column2-Body1">69</td>
                     <td class="TableStyle-Columns-BodyE-Column1-Body1">Generate an output with 'Get Latest' checked and an import file with get latest checked</td>
-                    <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyD-Column1-Body1">&#160;</td>
-                </tr>
-                <tr style="height: 15pt;" class="TableStyle-Columns-Body-Body1" MadCap:conditions="SourceControl.DetailedTesting">
-                    <td class="TableStyle-Columns-BodyE-Column2-Body1">70</td>
-                    <td class="TableStyle-Columns-BodyE-Column1-Body1">
-                        <p class="p_3">Move a File that has dependencies checked out to another User</p>
-                    </td>
                     <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
                     <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
                     <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
@@ -935,30 +923,6 @@
                     <td class="TableStyle-Columns-BodyD-Column1-Body1">&#160;</td>
                 </tr>
                 <tr style="height: 15pt;" class="TableStyle-Columns-Body-Body1" MadCap:conditions="SourceControl.DetailedTesting">
-                    <td class="TableStyle-Columns-BodyE-Column2-Body1">74</td>
-                    <td class="TableStyle-Columns-BodyE-Column1-Body1">
-                        <p class="p_3">Rename a file that is Out of Date</p>
-                    </td>
-                    <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyD-Column1-Body1">&#160;</td>
-                </tr>
-                <tr style="height: 15pt;" class="TableStyle-Columns-Body-Body1" MadCap:conditions="SourceControl.DetailedTesting">
-                    <td class="TableStyle-Columns-BodyE-Column2-Body1">75</td>
-                    <td class="TableStyle-Columns-BodyE-Column1-Body1">
-                        <p class="p_3">Edit a file that is Out Of Date</p>
-                    </td>
-                    <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyD-Column1-Body1">&#160;</td>
-                </tr>
-                <tr style="height: 15pt;" class="TableStyle-Columns-Body-Body1" MadCap:conditions="SourceControl.DetailedTesting">
                     <td class="TableStyle-Columns-BodyE-Column2-Body1">76</td>
                     <td class="TableStyle-Columns-BodyE-Column1-Body1">Edit a topic and save (don't check it in). Add a new topic, right click and add it. Make sure the edited topic is not checked in also.</td>
                     <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
@@ -971,7 +935,7 @@
                 <tr style="height: 15pt;" class="TableStyle-Columns-Body-Body1" MadCap:conditions="SourceControl.DetailedTesting">
                     <td class="TableStyle-Columns-BodyE-Column2-Body1">77</td>
                     <td class="TableStyle-Columns-BodyE-Column1-Body1">
-                        <p class="p_3">Check in all + Add comment + Verify comments were added</p>
+                        <p class="p_3">Commit all + Add comment + Verify comments were added</p>
                     </td>
                     <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
                     <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
