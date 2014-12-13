@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="6" MadCap:lastHeight="4766" MadCap:lastWidth="1281">
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="6" MadCap:lastHeight="4884" MadCap:lastWidth="1305">
     <head>
         <link href="../TableStyles/Columns.css" rel="stylesheet" MadCap:stylesheetType="table" />
     </head>
@@ -755,29 +755,49 @@
                     <td class="TableStyle-Columns-BodyD-Column1-Body1">&#160;</td>
                 </tr>
                 <tr style="height: 15pt;" class="TableStyle-Columns-Body-Body1" MadCap:conditions="SourceControl.multi-user,SourceControl.DetailedTesting">
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
+                    <td class="TableStyle-Columns-BodyE-Column1-Body1">Both users make changes but don’t commit &gt; synchronize both with remote and make sure each don't see the other's changes</td>
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1">c</td>
+                    <td class="TableStyle-Columns-BodyE-Column1-Body1">c</td>
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1">c</td>
+                    <td class="TableStyle-Columns-BodyE-Column1-Body1">c</td>
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1">c</td>
+                    <td class="TableStyle-Columns-BodyD-Column1-Body1">&#160;</td>
+                </tr>
+                <tr style="height: 15pt;" class="TableStyle-Columns-Body-Body1" MadCap:conditions="SourceControl.multi-user,SourceControl.DetailedTesting">
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
+                    <td class="TableStyle-Columns-BodyE-Column1-Body1">Both users make changes and commit &gt; both pull from remote and make sure each don't see the other's changes</td>
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1">c</td>
+                    <td class="TableStyle-Columns-BodyE-Column1-Body1">c</td>
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1">c</td>
+                    <td class="TableStyle-Columns-BodyE-Column1-Body1">c</td>
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1">c</td>
+                    <td class="TableStyle-Columns-BodyD-Column1-Body1">&#160;</td>
+                </tr>
+                <tr style="height: 15pt;" class="TableStyle-Columns-Body-Body1" MadCap:conditions="SourceControl.multi-user,SourceControl.DetailedTesting">
                     <td class="TableStyle-Columns-BodyE-Column2-Body1">59</td>
-                    <td class="TableStyle-Columns-BodyE-Column1-Body1">Both users check-out the same file and make non-conflicting changes. Both users check in changes. Auto resolve these changes and make sure both copies are updated correctly.</td>
-                    <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
+                    <td class="TableStyle-Columns-BodyE-Column1-Body1">Both users modify the same file and make non-conflicting changes. Both users commit changes then push. Auto resolve these changes and make sure both copies are updated correctly.</td>
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1">c</td>
+                    <td class="TableStyle-Columns-BodyE-Column1-Body1">c</td>
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1">c</td>
+                    <td class="TableStyle-Columns-BodyE-Column1-Body1">c</td>
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1">c</td>
                     <td class="TableStyle-Columns-BodyD-Column1-Body1">&#160;</td>
                 </tr>
                 <tr style="height: 15pt;" class="TableStyle-Columns-Body-Body1" MadCap:conditions="SourceControl.multi-user,SourceControl.DetailedTesting">
                     <td class="TableStyle-Columns-BodyE-Column2-Body1">60</td>
-                    <td class="TableStyle-Columns-BodyE-Column1-Body1">Both users check-out the same file and make conflicting changes. Verify in the merge tool that the correct server version and local version is shown. Verify that the changes you make are applied to both copies.</td>
-                    <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyD-Column1-Body1">&#160;</td>
+                    <td class="TableStyle-Columns-BodyE-Column1-Body1">Both users modify the same file and make conflicting changes. Verify in the merge tool that the correct server version and local version is shown. Verify that the changes you make are applied to both copies.</td>
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1">bug 96233</td>
+                    <td class="TableStyle-Columns-BodyE-Column1-Body1">bug 96233</td>
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1">bug 96233</td>
+                    <td class="TableStyle-Columns-BodyE-Column1-Body1">bug 96233</td>
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1">bug 96233</td>
+                    <td class="TableStyle-Columns-BodyD-Column1-Body1">bug 96233</td>
                 </tr>
                 <tr style="height: 15pt;" class="TableStyle-Columns-Body-Body1" MadCap:conditions="SourceControl.multi-user,SourceControl.DetailedTesting">
                     <td class="TableStyle-Columns-BodyE-Column2-Body1">61</td>
                     <td class="TableStyle-Columns-BodyE-Column1-Body1">
-                        <p>Both users check-out the same file and make conflicting changes. Have one user choose to undo local changes. Verify the local copy is updated correctly.</p>
+                        <p>Both users modify the same file and make conflicting changes. Have one user choose to undo local changes. Verify the local copy is updated correctly.</p>
                     </td>
                     <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
                     <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
@@ -788,7 +808,7 @@
                 </tr>
                 <tr style="height: 15pt;" class="TableStyle-Columns-Body-Body1" MadCap:conditions="SourceControl.multi-user,SourceControl.DetailedTesting">
                     <td class="TableStyle-Columns-BodyE-Column2-Body1">62</td>
-                    <td class="TableStyle-Columns-BodyE-Column1-Body1">Both users check-out the same file and make conflicting changes. Have one user choose to discard external changes. Verify the server copy is updated correctly.</td>
+                    <td class="TableStyle-Columns-BodyE-Column1-Body1">Both users modify the same file and make conflicting changes. Have one user choose to discard external changes. Verify the server copy is updated correctly.</td>
                     <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
                     <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
                     <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
@@ -798,17 +818,17 @@
                 </tr>
                 <tr style="height: 15pt;" class="TableStyle-Columns-Body-Body1" MadCap:conditions="SourceControl.multi-user,SourceControl.DetailedTesting">
                     <td class="TableStyle-Columns-BodyE-Column2-Body1">63</td>
-                    <td class="TableStyle-Columns-BodyE-Column1-Body1">Both users check-out the same file. One user deletes the file , the other user checks in the file before doing a Get Latest.</td>
-                    <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyD-Column1-Body1">&#160;</td>
+                    <td class="TableStyle-Columns-BodyE-Column1-Body1">Both users modify the same file. One user deletes the file , the other user checks in the file before doing a Pull.</td>
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1">bug 96237</td>
+                    <td class="TableStyle-Columns-BodyE-Column1-Body1">bug 96237</td>
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1">bug 96237</td>
+                    <td class="TableStyle-Columns-BodyE-Column1-Body1">bug 96237</td>
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1">bug 96237</td>
+                    <td class="TableStyle-Columns-BodyD-Column1-Body1">bug 96237</td>
                 </tr>
                 <tr style="height: 15pt;" class="TableStyle-Columns-Body-Body1" MadCap:conditions="SourceControl.multi-user,SourceControl.DetailedTesting">
                     <td class="TableStyle-Columns-BodyE-Column2-Body1">64</td>
-                    <td class="TableStyle-Columns-BodyE-Column1-Body1">Both users check-out the same file. One user renames the file , then the second user checks in the file before doing a Get Latest.</td>
+                    <td class="TableStyle-Columns-BodyE-Column1-Body1">Both users modify the same file. One user renames the file , then the second user commits the file before doing a Pull.</td>
                     <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
                     <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
                     <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
@@ -818,7 +838,7 @@
                 </tr>
                 <tr style="height: 15pt;" class="TableStyle-Columns-Body-Body1" MadCap:conditions="SourceControl.multi-user,SourceControl.DetailedTesting">
                     <td class="TableStyle-Columns-BodyE-Column2-Body1">65</td>
-                    <td class="TableStyle-Columns-BodyE-Column1-Body1">Both users have files checked out and one user renames the folder holding the files - and checks in changes. &#160;Second user checks in changes before doing a Get Latest.</td>
+                    <td class="TableStyle-Columns-BodyE-Column1-Body1">Both users have files modified and one user renames the folder holding the files - and commits and pushes the changes. &#160;Second user commits and pushes in changes before doing a Pull.</td>
                     <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
                     <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
                     <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
