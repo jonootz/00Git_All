@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="6" MadCap:lastHeight="4884" MadCap:lastWidth="1305">
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="6" MadCap:lastHeight="4446" MadCap:lastWidth="1395">
     <head>
         <link href="../TableStyles/Columns.css" rel="stylesheet" MadCap:stylesheetType="table" />
     </head>
@@ -799,12 +799,12 @@
                     <td class="TableStyle-Columns-BodyE-Column1-Body1">
                         <p>Both users modify the same file and make conflicting changes. Have one user choose to undo local changes. Verify the local copy is updated correctly.</p>
                     </td>
-                    <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyD-Column1-Body1">&#160;</td>
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1">bug 93692</td>
+                    <td class="TableStyle-Columns-BodyE-Column1-Body1">bug 93692</td>
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1">bug 93692</td>
+                    <td class="TableStyle-Columns-BodyE-Column1-Body1">bug 93692</td>
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1">bug 93692</td>
+                    <td class="TableStyle-Columns-BodyD-Column1-Body1">bug 93692</td>
                 </tr>
                 <tr style="height: 15pt;" class="TableStyle-Columns-Body-Body1" MadCap:conditions="SourceControl.multi-user,SourceControl.DetailedTesting">
                     <td class="TableStyle-Columns-BodyE-Column2-Body1">62</td>
@@ -829,12 +829,36 @@
                 <tr style="height: 15pt;" class="TableStyle-Columns-Body-Body1" MadCap:conditions="SourceControl.multi-user,SourceControl.DetailedTesting">
                     <td class="TableStyle-Columns-BodyE-Column2-Body1">64</td>
                     <td class="TableStyle-Columns-BodyE-Column1-Body1">Both users modify the same file. One user renames the file , then the second user commits the file before doing a Pull.</td>
-                    <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyD-Column1-Body1">&#160;</td>
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1">
+                        <p>SAYS&#160;IT&#160;DISCARDS&#160;</p>
+                        <p>SERVER&#160;CHANGES</p>
+                        <p>BUT&#160;DOESN'T</p>
+                    </td>
+                    <td class="TableStyle-Columns-BodyE-Column1-Body1">
+                        <p>SAYS&#160;IT&#160;DISCARDS&#160;</p>
+                        <p>SERVER&#160;CHANGES</p>
+                        <p>BUT&#160;DOESN'T</p>
+                    </td>
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1">
+                        <p>SAYS&#160;IT&#160;DISCARDS&#160;</p>
+                        <p>SERVER&#160;CHANGES</p>
+                        <p>BUT&#160;DOESN'T</p>
+                    </td>
+                    <td class="TableStyle-Columns-BodyE-Column1-Body1">
+                        <p>SAYS&#160;IT&#160;DISCARDS&#160;</p>
+                        <p>SERVER&#160;CHANGES</p>
+                        <p>BUT&#160;DOESN'T</p>
+                    </td>
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1">
+                        <p>SAYS&#160;IT&#160;DISCARDS&#160;</p>
+                        <p>SERVER&#160;CHANGES</p>
+                        <p>BUT&#160;DOESN'T</p>
+                    </td>
+                    <td class="TableStyle-Columns-BodyD-Column1-Body1">
+                        <p>SAYS&#160;IT&#160;DISCARDS&#160;</p>
+                        <p>SERVER&#160;CHANGES</p>
+                        <p>BUT&#160;DOESN'T</p>
+                    </td>
                 </tr>
                 <tr style="height: 15pt;" class="TableStyle-Columns-Body-Body1" MadCap:conditions="SourceControl.multi-user,SourceControl.DetailedTesting">
                     <td class="TableStyle-Columns-BodyE-Column2-Body1">65</td>
