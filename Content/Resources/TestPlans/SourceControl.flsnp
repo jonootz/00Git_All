@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="6" MadCap:lastHeight="4446" MadCap:lastWidth="1395">
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="6" MadCap:lastHeight="4806" MadCap:lastWidth="1458">
     <head>
         <link href="../TableStyles/Columns.css" rel="stylesheet" MadCap:stylesheetType="table" />
     </head>
@@ -8,8 +8,8 @@
         <p>&#160;</p>
         <table class="TableStyle-Columns" style="caption-side: top;mc-table-style-original: url('../../../TableStyles/Columns.css');mc-table-style: url('../TableStyles/Columns.css');" cellspacing="0">
             <col style="width: 19pt;" class="TableStyle-Columns-Column-Column2" />
-            <col style="width: 325pt;" class="TableStyle-Columns-Column-Column1" />
-            <col style="width: 82pt;" class="TableStyle-Columns-Column-Column2" />
+            <col style="width: 276pt;" class="TableStyle-Columns-Column-Column1" />
+            <col style="width: 117pt;" class="TableStyle-Columns-Column-Column2" />
             <col style="width: 112pt;" class="TableStyle-Columns-Column-Column1" />
             <col style="width: 82pt;" class="TableStyle-Columns-Column-Column2" />
             <col style="width: 83pt;" class="TableStyle-Columns-Column-Column1" />
@@ -968,7 +968,7 @@
                 </tr>
                 <tr style="height: 15pt;" class="TableStyle-Columns-Body-Body1" MadCap:conditions="SourceControl.DetailedTesting">
                     <td class="TableStyle-Columns-BodyE-Column2-Body1">76</td>
-                    <td class="TableStyle-Columns-BodyE-Column1-Body1">Edit a topic and save (don't check it in). Add a new topic, right click and add it. Make sure the edited topic is not checked in also.</td>
+                    <td class="TableStyle-Columns-BodyE-Column1-Body1">Edit a topic and save (don't commit). Add a new topic, right click and commit. Make sure the edited topic is commited also.</td>
                     <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
                     <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
                     <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
@@ -987,6 +987,16 @@
                     <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
                     <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
                     <td class="TableStyle-Columns-BodyD-Column1-Body1">y</td>
+                </tr>
+                <tr style="height: 15pt;" class="TableStyle-Columns-Body-Body1" MadCap:conditions="SourceControl.DetailedTesting">
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
+                    <td class="TableStyle-Columns-BodyE-Column1-Body1">Commit all +&#160;Don't add comment + Verify we inject comments</td>
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
+                    <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
+                    <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
+                    <td class="TableStyle-Columns-BodyD-Column1-Body1">&#160;</td>
                 </tr>
                 <tr style="height: 15pt;" class="TableStyle-Columns-Body-Body1" MadCap:conditions="SourceControl.DetailedTesting">
                     <td class="TableStyle-Columns-BodyE-Column2-Body1">78</td>
@@ -1025,7 +1035,7 @@
                 </tr>
                 <tr style="height: 15pt;" class="TableStyle-Columns-Body-Body1" MadCap:conditions="SourceControl.DetailedTesting">
                     <td class="TableStyle-Columns-BodyE-Column2-Body1">81</td>
-                    <td class="TableStyle-Columns-BodyE-Column1-Body1">Rename a pending-add file and then check-it in</td>
+                    <td class="TableStyle-Columns-BodyE-Column1-Body1">Rename a pending-add file and then commit</td>
                     <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
                     <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
                     <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
@@ -1045,7 +1055,7 @@
                 </tr>
                 <tr style="height: 15pt;" class="TableStyle-Columns-Body-Body1" MadCap:conditions="SourceControl.DetailedTesting">
                     <td class="TableStyle-Columns-BodyE-Column2-Body1">83</td>
-                    <td class="TableStyle-Columns-BodyE-Column1-Body1">Move a checked-in file and then delete it</td>
+                    <td class="TableStyle-Columns-BodyE-Column1-Body1">Move a commited file and then delete it</td>
                     <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
                     <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
                     <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
@@ -1055,7 +1065,7 @@
                 </tr>
                 <tr style="height: 15pt;" class="TableStyle-Columns-Body-Body1" MadCap:conditions="SourceControl.DetailedTesting">
                     <td class="TableStyle-Columns-BodyE-Column2-Body1">84</td>
-                    <td class="TableStyle-Columns-BodyE-Column1-Body1">Move a checked-out file and then delete it</td>
+                    <td class="TableStyle-Columns-BodyE-Column1-Body1">Move a modified file and then delete it</td>
                     <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
                     <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
                     <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
@@ -1076,48 +1086,48 @@
                     <td class="TableStyle-Columns-BodyE-Column1-Body1">
                         <p class="p_3">Disconnect YOUR PC. Launch Flare and open a Bound Project.</p>
                     </td>
-                    <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyD-Column1-Body1">&#160;</td>
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1">c</td>
+                    <td class="TableStyle-Columns-BodyE-Column1-Body1">c</td>
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1">n/a</td>
+                    <td class="TableStyle-Columns-BodyE-Column1-Body1">c</td>
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1">c</td>
+                    <td class="TableStyle-Columns-BodyD-Column1-Body1">y</td>
                 </tr>
                 <tr style="height: 15pt;" class="TableStyle-Columns-Body-Body1">
                     <td class="TableStyle-Columns-BodyE-Column2-Body1">86</td>
                     <td class="TableStyle-Columns-BodyE-Column1-Body1">
                         <p class="p_3">Open a bound Project. Disconnect YOUR PC. Do VC commands.</p>
                     </td>
-                    <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyD-Column1-Body1">&#160;</td>
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1">c</td>
+                    <td class="TableStyle-Columns-BodyE-Column1-Body1">c</td>
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1">n/a</td>
+                    <td class="TableStyle-Columns-BodyE-Column1-Body1">c</td>
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1">c</td>
+                    <td class="TableStyle-Columns-BodyD-Column1-Body1">y</td>
                 </tr>
                 <tr style="height: 15pt;" class="TableStyle-Columns-Body-Body1">
                     <td class="TableStyle-Columns-BodyE-Column2-Body1">87</td>
                     <td class="TableStyle-Columns-BodyE-Column1-Body1">
                         <p class="p_3">Open a bound Project. Disconnect the SERVER. Do VC commands.</p>
                     </td>
-                    <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyD-Column1-Body1">&#160;</td>
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1">n/a</td>
+                    <td class="TableStyle-Columns-BodyE-Column1-Body1">n/a</td>
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1">n/a</td>
+                    <td class="TableStyle-Columns-BodyE-Column1-Body1">n/a</td>
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1">n/a</td>
+                    <td class="TableStyle-Columns-BodyD-Column1-Body1">n/a</td>
                 </tr>
                 <tr style="height: 15pt;" class="TableStyle-Columns-Body-Body1">
                     <td class="TableStyle-Columns-BodyE-Column2-Body1">88</td>
                     <td class="TableStyle-Columns-BodyE-Column1-Body1">
                         <p class="p_3">Disconnect SERVER. Launch Flare and open a Bound Project</p>
                     </td>
-                    <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyD-Column1-Body1">&#160;</td>
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1">n/a</td>
+                    <td class="TableStyle-Columns-BodyE-Column1-Body1">n/a</td>
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1">n/a</td>
+                    <td class="TableStyle-Columns-BodyE-Column1-Body1">n/a</td>
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1">n/a</td>
+                    <td class="TableStyle-Columns-BodyD-Column1-Body1">n/a</td>
                 </tr>
                 <tr style="height: 15pt;" class="TableStyle-Columns-Body-Body1">
                     <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
