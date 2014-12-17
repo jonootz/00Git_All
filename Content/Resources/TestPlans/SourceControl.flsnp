@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="6" MadCap:lastHeight="4806" MadCap:lastWidth="1458">
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="6" MadCap:lastHeight="4823" MadCap:lastWidth="1330">
     <head>
         <link href="../TableStyles/Columns.css" rel="stylesheet" MadCap:stylesheetType="table" />
     </head>
@@ -923,48 +923,48 @@
                 <tr style="height: 15pt;" class="TableStyle-Columns-Body-Body1" MadCap:conditions="SourceControl.DetailedTesting">
                     <td class="TableStyle-Columns-BodyE-Column2-Body1">69</td>
                     <td class="TableStyle-Columns-BodyE-Column1-Body1">Generate an output with 'Get Latest' checked and an import file with get latest checked</td>
-                    <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyD-Column1-Body1">&#160;</td>
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1">bug 96371</td>
+                    <td class="TableStyle-Columns-BodyE-Column1-Body1">bug 96371</td>
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1">bug 96371</td>
+                    <td class="TableStyle-Columns-BodyE-Column1-Body1">bug 96371</td>
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1">bug 96371</td>
+                    <td class="TableStyle-Columns-BodyD-Column1-Body1">bug 96371</td>
                 </tr>
                 <tr style="height: 15pt;" class="TableStyle-Columns-Body-Body1" MadCap:conditions="SourceControl.DetailedTesting">
                     <td class="TableStyle-Columns-BodyE-Column2-Body1">71</td>
                     <td class="TableStyle-Columns-BodyE-Column1-Body1">
                         <p class="p_3">Get latest when generating option in targets</p>
                     </td>
-                    <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyD-Column1-Body1">&#160;</td>
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1">bug 96371</td>
+                    <td class="TableStyle-Columns-BodyE-Column1-Body1">bug 96371</td>
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1">bug 96371</td>
+                    <td class="TableStyle-Columns-BodyE-Column1-Body1">bug 96371</td>
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1">bug 96371</td>
+                    <td class="TableStyle-Columns-BodyD-Column1-Body1">bug 96371</td>
                 </tr>
                 <tr style="height: 15pt;" class="TableStyle-Columns-Body-Body1" MadCap:conditions="SourceControl.DetailedTesting">
                     <td class="TableStyle-Columns-BodyE-Column2-Body1">72</td>
                     <td class="TableStyle-Columns-BodyE-Column1-Body1">
                         <p class="p_3">Get latest when generating command line</p>
                     </td>
-                    <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyD-Column1-Body1">&#160;</td>
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1">bug 96371</td>
+                    <td class="TableStyle-Columns-BodyE-Column1-Body1">bug 96371</td>
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1">bug 96371</td>
+                    <td class="TableStyle-Columns-BodyE-Column1-Body1">bug 96371</td>
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1">bug 96371</td>
+                    <td class="TableStyle-Columns-BodyD-Column1-Body1">bug 96371</td>
                 </tr>
                 <tr style="height: 15pt;" class="TableStyle-Columns-Body-Body1" MadCap:conditions="SourceControl.DetailedTesting">
                     <td class="TableStyle-Columns-BodyE-Column2-Body1">73</td>
                     <td class="TableStyle-Columns-BodyE-Column1-Body1">
                         <p class="p_3">Bind a Project that has the same name as an Existing project in VC</p>
                     </td>
-                    <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyD-Column1-Body1">&#160;</td>
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1">-</td>
+                    <td class="TableStyle-Columns-BodyE-Column1-Body1">-</td>
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1">-</td>
+                    <td class="TableStyle-Columns-BodyE-Column1-Body1">-</td>
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1">-</td>
+                    <td class="TableStyle-Columns-BodyD-Column1-Body1">c - all 4 github, gitlab, vso, cf</td>
                 </tr>
                 <tr style="height: 15pt;" class="TableStyle-Columns-Body-Body1" MadCap:conditions="SourceControl.DetailedTesting">
                     <td class="TableStyle-Columns-BodyE-Column2-Body1">76</td>
@@ -1321,7 +1321,7 @@
                 </tr>
                 <tr style="height: 15pt;" class="TableStyle-Columns-Body-Body1">
                     <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
+                    <td class="TableStyle-Columns-BodyE-Column1-Body1">after cloning/importing, do all remotes show their information? Git does not either</td>
                     <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
                     <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
                     <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
