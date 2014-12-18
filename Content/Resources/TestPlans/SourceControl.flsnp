@@ -1036,42 +1036,42 @@
                 <tr style="height: 15pt;" class="TableStyle-Columns-Body-Body1" MadCap:conditions="SourceControl.DetailedTesting">
                     <td class="TableStyle-Columns-BodyE-Column2-Body1">81</td>
                     <td class="TableStyle-Columns-BodyE-Column1-Body1">Rename a pending-add file and then commit</td>
-                    <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyD-Column1-Body1">&#160;</td>
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1">bug 96712</td>
+                    <td class="TableStyle-Columns-BodyE-Column1-Body1">bug 96712</td>
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1">bug 96712</td>
+                    <td class="TableStyle-Columns-BodyE-Column1-Body1">bug 96712</td>
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1">bug 96712</td>
+                    <td class="TableStyle-Columns-BodyD-Column1-Body1">bug 96712</td>
                 </tr>
                 <tr style="height: 15pt;" class="TableStyle-Columns-Body-Body1" MadCap:conditions="SourceControl.DetailedTesting">
                     <td class="TableStyle-Columns-BodyE-Column2-Body1">82</td>
                     <td class="TableStyle-Columns-BodyE-Column1-Body1">Rename a pending-add file and then delete it</td>
-                    <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyD-Column1-Body1">&#160;</td>
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1">bug 96712</td>
+                    <td class="TableStyle-Columns-BodyE-Column1-Body1">bug 96712</td>
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1">bug 96712</td>
+                    <td class="TableStyle-Columns-BodyE-Column1-Body1">bug 96712</td>
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1">bug 96712</td>
+                    <td class="TableStyle-Columns-BodyD-Column1-Body1">bug 96712</td>
                 </tr>
                 <tr style="height: 15pt;" class="TableStyle-Columns-Body-Body1" MadCap:conditions="SourceControl.DetailedTesting">
                     <td class="TableStyle-Columns-BodyE-Column2-Body1">83</td>
                     <td class="TableStyle-Columns-BodyE-Column1-Body1">Move a commited file and then delete it</td>
-                    <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyD-Column1-Body1">&#160;</td>
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1">bug 96237</td>
+                    <td class="TableStyle-Columns-BodyE-Column1-Body1">bug 96237</td>
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1">bug 96237</td>
+                    <td class="TableStyle-Columns-BodyE-Column1-Body1">bug 96237</td>
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1">bug 96237</td>
+                    <td class="TableStyle-Columns-BodyD-Column1-Body1">bug 96237</td>
                 </tr>
                 <tr style="height: 15pt;" class="TableStyle-Columns-Body-Body1" MadCap:conditions="SourceControl.DetailedTesting">
                     <td class="TableStyle-Columns-BodyE-Column2-Body1">84</td>
                     <td class="TableStyle-Columns-BodyE-Column1-Body1">Move a modified file and then delete it</td>
-                    <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyE-Column1-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
-                    <td class="TableStyle-Columns-BodyD-Column1-Body1">&#160;</td>
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1">bug 96237</td>
+                    <td class="TableStyle-Columns-BodyE-Column1-Body1">bug 96237</td>
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1">bug 96237</td>
+                    <td class="TableStyle-Columns-BodyE-Column1-Body1">bug 96237</td>
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1">bug 96237</td>
+                    <td class="TableStyle-Columns-BodyD-Column1-Body1">bug 96237</td>
                 </tr>
                 <tr style="height: 15pt;" class="TableStyle-Columns-Body-Body1">
                     <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
