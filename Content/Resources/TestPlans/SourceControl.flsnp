@@ -659,94 +659,94 @@
                 <tr style="height: 15pt;" class="TableStyle-Columns-Body-Body1">
                     <td class="TableStyle-Columns-BodyE-Column2-Body1">50</td>
                     <td class="TableStyle-Columns-BodyE-Column1-Body1">Delete a Committed file and Commit the change</td>
-                    <td class="TableStyle-Columns-BodyE-Column2-Body1">bug 96237</td>
-                    <td class="TableStyle-Columns-BodyE-Column1-Body1">bug 96237</td>
-                    <td class="TableStyle-Columns-BodyE-Column2-Body1">n/a</td>
-                    <td class="TableStyle-Columns-BodyE-Column1-Body1">bug 96237</td>
-                    <td class="TableStyle-Columns-BodyE-Column2-Body1">bug 96237</td>
-                    <td class="TableStyle-Columns-BodyD-Column1-Body1">bug 96237</td>
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1" style="color: #7cfc00;">bug 96237</td>
+                    <td class="TableStyle-Columns-BodyE-Column1-Body1" style="color: #7cfc00;">bug 96237</td>
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1" style="color: #7cfc00;">n/a</td>
+                    <td class="TableStyle-Columns-BodyE-Column1-Body1" style="color: #7cfc00;">bug 96237</td>
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1" style="color: #7cfc00;">bug 96237</td>
+                    <td class="TableStyle-Columns-BodyD-Column1-Body1" style="color: #7cfc00;">bug 96237</td>
                 </tr>
                 <tr style="height: 15pt;" class="TableStyle-Columns-Body-Body1">
                     <td class="TableStyle-Columns-BodyE-Column2-Body1">51</td>
                     <td class="TableStyle-Columns-BodyE-Column1-Body1">Delete a Committed file and Commit the change then Push</td>
-                    <td class="TableStyle-Columns-BodyE-Column2-Body1">bug 96237</td>
-                    <td class="TableStyle-Columns-BodyE-Column1-Body1">bug 96237</td>
-                    <td class="TableStyle-Columns-BodyE-Column2-Body1">n/a</td>
-                    <td class="TableStyle-Columns-BodyE-Column1-Body1">bug 96237</td>
-                    <td class="TableStyle-Columns-BodyE-Column2-Body1">bug 96237</td>
-                    <td class="TableStyle-Columns-BodyD-Column1-Body1">bug 96237</td>
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1" style="color: #7cfc00;">bug 96237</td>
+                    <td class="TableStyle-Columns-BodyE-Column1-Body1" style="color: #7cfc00;">bug 96237</td>
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1" style="color: #7cfc00;">n/a</td>
+                    <td class="TableStyle-Columns-BodyE-Column1-Body1" style="color: #7cfc00;">bug 96237</td>
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1" style="color: #7cfc00;">bug 96237</td>
+                    <td class="TableStyle-Columns-BodyD-Column1-Body1" style="color: #7cfc00;">bug 96237</td>
                 </tr>
                 <tr style="height: 15pt;" class="TableStyle-Columns-Body-Body1">
                     <td class="TableStyle-Columns-BodyE-Column2-Body1">52</td>
                     <td class="TableStyle-Columns-BodyE-Column1-Body1">
                         <p>Delete a Modified file and Commit the change</p>
                     </td>
-                    <td class="TableStyle-Columns-BodyE-Column2-Body1">bug 96237</td>
-                    <td class="TableStyle-Columns-BodyE-Column1-Body1">bug 96237</td>
-                    <td class="TableStyle-Columns-BodyE-Column2-Body1">n/a</td>
-                    <td class="TableStyle-Columns-BodyE-Column1-Body1">bug 96237</td>
-                    <td class="TableStyle-Columns-BodyE-Column2-Body1">bug 96237</td>
-                    <td class="TableStyle-Columns-BodyD-Column1-Body1">bug 96237</td>
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1" style="color: #7cfc00;">bug 96237</td>
+                    <td class="TableStyle-Columns-BodyE-Column1-Body1" style="color: #7cfc00;">bug 96237</td>
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1" style="color: #7cfc00;">n/a</td>
+                    <td class="TableStyle-Columns-BodyE-Column1-Body1" style="color: #7cfc00;">bug 96237</td>
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1" style="color: #7cfc00;">bug 96237</td>
+                    <td class="TableStyle-Columns-BodyD-Column1-Body1" style="color: #7cfc00;">bug 96237</td>
                 </tr>
                 <tr style="height: 15pt;" class="TableStyle-Columns-Body-Body1">
                     <td class="TableStyle-Columns-BodyE-Column2-Body1">53</td>
                     <td class="TableStyle-Columns-BodyE-Column1-Body1">Delete a Modified file and Commit the change then Push</td>
-                    <td class="TableStyle-Columns-BodyE-Column2-Body1">bug 96237</td>
-                    <td class="TableStyle-Columns-BodyE-Column1-Body1">bug 96237</td>
-                    <td class="TableStyle-Columns-BodyE-Column2-Body1">n/a</td>
-                    <td class="TableStyle-Columns-BodyE-Column1-Body1">bug 96237</td>
-                    <td class="TableStyle-Columns-BodyE-Column2-Body1">bug 96237</td>
-                    <td class="TableStyle-Columns-BodyD-Column1-Body1">bug 96237</td>
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1" style="color: #7cfc00;">bug 96237</td>
+                    <td class="TableStyle-Columns-BodyE-Column1-Body1" style="color: #7cfc00;">bug 96237</td>
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1" style="color: #7cfc00;">n/a</td>
+                    <td class="TableStyle-Columns-BodyE-Column1-Body1" style="color: #7cfc00;">bug 96237</td>
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1" style="color: #7cfc00;">bug 96237</td>
+                    <td class="TableStyle-Columns-BodyD-Column1-Body1" style="color: #7cfc00;">bug 96237</td>
                 </tr>
                 <tr style="height: 15pt;" class="TableStyle-Columns-Body-Body1">
                     <td class="TableStyle-Columns-BodyE-Column2-Body1">54</td>
                     <td class="TableStyle-Columns-BodyE-Column1-Body1">Delete a pending-add file</td>
-                    <td class="TableStyle-Columns-BodyE-Column2-Body1">bug 96237</td>
-                    <td class="TableStyle-Columns-BodyE-Column1-Body1">bug 96237</td>
-                    <td class="TableStyle-Columns-BodyE-Column2-Body1">n/a</td>
-                    <td class="TableStyle-Columns-BodyE-Column1-Body1">bug 96237</td>
-                    <td class="TableStyle-Columns-BodyE-Column2-Body1">bug 96237</td>
-                    <td class="TableStyle-Columns-BodyD-Column1-Body1">bug 96237</td>
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1" style="color: #7cfc00;">bug 96237</td>
+                    <td class="TableStyle-Columns-BodyE-Column1-Body1" style="color: #7cfc00;">bug 96237</td>
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1" style="color: #7cfc00;">n/a</td>
+                    <td class="TableStyle-Columns-BodyE-Column1-Body1" style="color: #7cfc00;">bug 96237</td>
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1" style="color: #7cfc00;">bug 96237</td>
+                    <td class="TableStyle-Columns-BodyD-Column1-Body1" style="color: #7cfc00;">bug 96237</td>
                 </tr>
                 <tr style="height: 15pt;" class="TableStyle-Columns-Body-Body1">
                     <td class="TableStyle-Columns-BodyE-Column2-Body1">55</td>
                     <td class="TableStyle-Columns-BodyE-Column1-Body1">Delete a folder with all Committed files</td>
-                    <td class="TableStyle-Columns-BodyE-Column2-Body1">bug 96237</td>
-                    <td class="TableStyle-Columns-BodyE-Column1-Body1">bug 96237</td>
-                    <td class="TableStyle-Columns-BodyE-Column2-Body1">n/a</td>
-                    <td class="TableStyle-Columns-BodyE-Column1-Body1">bug 96237</td>
-                    <td class="TableStyle-Columns-BodyE-Column2-Body1">bug 96237</td>
-                    <td class="TableStyle-Columns-BodyD-Column1-Body1">bug 96237</td>
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1" style="color: #7cfc00;">bug 96237</td>
+                    <td class="TableStyle-Columns-BodyE-Column1-Body1" style="color: #7cfc00;">bug 96237</td>
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1" style="color: #7cfc00;">n/a</td>
+                    <td class="TableStyle-Columns-BodyE-Column1-Body1" style="color: #7cfc00;">bug 96237</td>
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1" style="color: #7cfc00;">bug 96237</td>
+                    <td class="TableStyle-Columns-BodyD-Column1-Body1" style="color: #7cfc00;">bug 96237</td>
                 </tr>
                 <tr style="height: 15pt;" class="TableStyle-Columns-Body-Body1">
                     <td class="TableStyle-Columns-BodyE-Column2-Body1">56</td>
                     <td class="TableStyle-Columns-BodyE-Column1-Body1">Delete a folder with all Modified files</td>
-                    <td class="TableStyle-Columns-BodyE-Column2-Body1">bug 96237</td>
-                    <td class="TableStyle-Columns-BodyE-Column1-Body1">bug 96237</td>
-                    <td class="TableStyle-Columns-BodyE-Column2-Body1">n/a</td>
-                    <td class="TableStyle-Columns-BodyE-Column1-Body1">bug 96237</td>
-                    <td class="TableStyle-Columns-BodyE-Column2-Body1">bug 96237</td>
-                    <td class="TableStyle-Columns-BodyD-Column1-Body1">bug 96237</td>
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1" style="color: #7cfc00;">bug 96237</td>
+                    <td class="TableStyle-Columns-BodyE-Column1-Body1" style="color: #7cfc00;">bug 96237</td>
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1" style="color: #7cfc00;">n/a</td>
+                    <td class="TableStyle-Columns-BodyE-Column1-Body1" style="color: #7cfc00;">bug 96237</td>
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1" style="color: #7cfc00;">bug 96237</td>
+                    <td class="TableStyle-Columns-BodyD-Column1-Body1" style="color: #7cfc00;">bug 96237</td>
                 </tr>
                 <tr style="height: 15pt;" class="TableStyle-Columns-Body-Body1">
                     <td class="TableStyle-Columns-BodyE-Column2-Body1">57</td>
                     <td class="TableStyle-Columns-BodyE-Column1-Body1">Delete a folder with pending-add files</td>
-                    <td class="TableStyle-Columns-BodyE-Column2-Body1">bug 96237</td>
-                    <td class="TableStyle-Columns-BodyE-Column1-Body1">bug 96237</td>
-                    <td class="TableStyle-Columns-BodyE-Column2-Body1">n/a</td>
-                    <td class="TableStyle-Columns-BodyE-Column1-Body1">bug 96237</td>
-                    <td class="TableStyle-Columns-BodyE-Column2-Body1">bug 96237</td>
-                    <td class="TableStyle-Columns-BodyD-Column1-Body1">bug 96237</td>
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1" style="color: #7cfc00;">bug 96237</td>
+                    <td class="TableStyle-Columns-BodyE-Column1-Body1" style="color: #7cfc00;">bug 96237</td>
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1" style="color: #7cfc00;">n/a</td>
+                    <td class="TableStyle-Columns-BodyE-Column1-Body1" style="color: #7cfc00;">bug 96237</td>
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1" style="color: #7cfc00;">bug 96237</td>
+                    <td class="TableStyle-Columns-BodyD-Column1-Body1" style="color: #7cfc00;">bug 96237</td>
                 </tr>
                 <tr style="height: 15pt;" class="TableStyle-Columns-Body-Body1">
                     <td class="TableStyle-Columns-BodyE-Column2-Body1">58</td>
                     <td class="TableStyle-Columns-BodyE-Column1-Body1">Delete a folder with a mix of Committed, Modified, and pending-add files</td>
-                    <td class="TableStyle-Columns-BodyE-Column2-Body1">bug 96237</td>
-                    <td class="TableStyle-Columns-BodyE-Column1-Body1">bug 96237</td>
-                    <td class="TableStyle-Columns-BodyE-Column2-Body1">n/a</td>
-                    <td class="TableStyle-Columns-BodyE-Column1-Body1">bug 96237</td>
-                    <td class="TableStyle-Columns-BodyE-Column2-Body1">bug 96237</td>
-                    <td class="TableStyle-Columns-BodyD-Column1-Body1">bug 96237</td>
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1" style="color: #7cfc00;">bug 96237</td>
+                    <td class="TableStyle-Columns-BodyE-Column1-Body1" style="color: #7cfc00;">bug 96237</td>
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1" style="color: #7cfc00;">n/a</td>
+                    <td class="TableStyle-Columns-BodyE-Column1-Body1" style="color: #7cfc00;">bug 96237</td>
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1" style="color: #7cfc00;">bug 96237</td>
+                    <td class="TableStyle-Columns-BodyD-Column1-Body1" style="color: #7cfc00;">bug 96237</td>
                 </tr>
                 <tr class="TableStyle-Columns-Body-Body1" MadCap:conditions="SourceControl.multi-user,SourceControl.DetailedTesting">
                     <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
@@ -787,12 +787,12 @@
                 <tr style="height: 15pt;" class="TableStyle-Columns-Body-Body1" MadCap:conditions="SourceControl.multi-user,SourceControl.DetailedTesting">
                     <td class="TableStyle-Columns-BodyE-Column2-Body1">60</td>
                     <td class="TableStyle-Columns-BodyE-Column1-Body1">Both users modify the same file and make conflicting changes. Verify in the merge tool that the correct server version and local version is shown. Verify that the changes you make are applied to both copies.</td>
-                    <td class="TableStyle-Columns-BodyE-Column2-Body1">bug 96233</td>
-                    <td class="TableStyle-Columns-BodyE-Column1-Body1">bug 96233</td>
-                    <td class="TableStyle-Columns-BodyE-Column2-Body1">bug 96233</td>
-                    <td class="TableStyle-Columns-BodyE-Column1-Body1">bug 96233</td>
-                    <td class="TableStyle-Columns-BodyE-Column2-Body1">bug 96233</td>
-                    <td class="TableStyle-Columns-BodyD-Column1-Body1">bug 96233</td>
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1" style="color: #7cfc00;">bug 96233</td>
+                    <td class="TableStyle-Columns-BodyE-Column1-Body1" style="color: #7cfc00;">bug 96233</td>
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1" style="color: #7cfc00;">bug 96233</td>
+                    <td class="TableStyle-Columns-BodyE-Column1-Body1" style="color: #7cfc00;">bug 96233</td>
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1" style="color: #7cfc00;">bug 96233</td>
+                    <td class="TableStyle-Columns-BodyD-Column1-Body1" style="color: #7cfc00;">bug 96233</td>
                 </tr>
                 <tr style="height: 15pt;" class="TableStyle-Columns-Body-Body1" MadCap:conditions="SourceControl.multi-user,SourceControl.DetailedTesting">
                     <td class="TableStyle-Columns-BodyE-Column2-Body1">61</td>
@@ -819,12 +819,12 @@
                 <tr style="height: 15pt;" class="TableStyle-Columns-Body-Body1" MadCap:conditions="SourceControl.multi-user,SourceControl.DetailedTesting">
                     <td class="TableStyle-Columns-BodyE-Column2-Body1">63</td>
                     <td class="TableStyle-Columns-BodyE-Column1-Body1">Both users modify the same file. One user deletes the file , the other user checks in the file before doing a Pull.</td>
-                    <td class="TableStyle-Columns-BodyE-Column2-Body1">bug 96237</td>
-                    <td class="TableStyle-Columns-BodyE-Column1-Body1">bug 96237</td>
-                    <td class="TableStyle-Columns-BodyE-Column2-Body1">bug 96237</td>
-                    <td class="TableStyle-Columns-BodyE-Column1-Body1">bug 96237</td>
-                    <td class="TableStyle-Columns-BodyE-Column2-Body1">bug 96237</td>
-                    <td class="TableStyle-Columns-BodyD-Column1-Body1">bug 96237</td>
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1" style="color: #7cfc00;">bug 96237</td>
+                    <td class="TableStyle-Columns-BodyE-Column1-Body1" style="color: #7cfc00;">bug 96237</td>
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1" style="color: #7cfc00;">bug 96237</td>
+                    <td class="TableStyle-Columns-BodyE-Column1-Body1" style="color: #7cfc00;">bug 96237</td>
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1" style="color: #7cfc00;">bug 96237</td>
+                    <td class="TableStyle-Columns-BodyD-Column1-Body1" style="color: #7cfc00;">bug 96237</td>
                 </tr>
                 <tr style="height: 15pt;" class="TableStyle-Columns-Body-Body1" MadCap:conditions="SourceControl.multi-user,SourceControl.DetailedTesting">
                     <td class="TableStyle-Columns-BodyE-Column2-Body1">64</td>
@@ -1056,22 +1056,22 @@
                 <tr style="height: 15pt;" class="TableStyle-Columns-Body-Body1" MadCap:conditions="SourceControl.DetailedTesting">
                     <td class="TableStyle-Columns-BodyE-Column2-Body1">83</td>
                     <td class="TableStyle-Columns-BodyE-Column1-Body1">Move a commited file and then delete it</td>
-                    <td class="TableStyle-Columns-BodyE-Column2-Body1">bug 96237</td>
-                    <td class="TableStyle-Columns-BodyE-Column1-Body1">bug 96237</td>
-                    <td class="TableStyle-Columns-BodyE-Column2-Body1">bug 96237</td>
-                    <td class="TableStyle-Columns-BodyE-Column1-Body1">bug 96237</td>
-                    <td class="TableStyle-Columns-BodyE-Column2-Body1">bug 96237</td>
-                    <td class="TableStyle-Columns-BodyD-Column1-Body1">bug 96237</td>
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1" style="color: #7cfc00;">bug 96237</td>
+                    <td class="TableStyle-Columns-BodyE-Column1-Body1" style="color: #7cfc00;">bug 96237</td>
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1" style="color: #7cfc00;">bug 96237</td>
+                    <td class="TableStyle-Columns-BodyE-Column1-Body1" style="color: #7cfc00;">bug 96237</td>
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1" style="color: #7cfc00;">bug 96237</td>
+                    <td class="TableStyle-Columns-BodyD-Column1-Body1" style="color: #7cfc00;">bug 96237</td>
                 </tr>
                 <tr style="height: 15pt;" class="TableStyle-Columns-Body-Body1" MadCap:conditions="SourceControl.DetailedTesting">
                     <td class="TableStyle-Columns-BodyE-Column2-Body1">84</td>
                     <td class="TableStyle-Columns-BodyE-Column1-Body1">Move a modified file and then delete it</td>
-                    <td class="TableStyle-Columns-BodyE-Column2-Body1">bug 96237</td>
-                    <td class="TableStyle-Columns-BodyE-Column1-Body1">bug 96237</td>
-                    <td class="TableStyle-Columns-BodyE-Column2-Body1">bug 96237</td>
-                    <td class="TableStyle-Columns-BodyE-Column1-Body1">bug 96237</td>
-                    <td class="TableStyle-Columns-BodyE-Column2-Body1">bug 96237</td>
-                    <td class="TableStyle-Columns-BodyD-Column1-Body1">bug 96237</td>
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1" style="color: #7cfc00;">bug 96237</td>
+                    <td class="TableStyle-Columns-BodyE-Column1-Body1" style="color: #7cfc00;">bug 96237</td>
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1" style="color: #7cfc00;">bug 96237</td>
+                    <td class="TableStyle-Columns-BodyE-Column1-Body1" style="color: #7cfc00;">bug 96237</td>
+                    <td class="TableStyle-Columns-BodyE-Column2-Body1" style="color: #7cfc00;">bug 96237</td>
+                    <td class="TableStyle-Columns-BodyD-Column1-Body1" style="color: #7cfc00;">bug 96237</td>
                 </tr>
                 <tr style="height: 15pt;" class="TableStyle-Columns-Body-Body1">
                     <td class="TableStyle-Columns-BodyE-Column2-Body1">&#160;</td>
